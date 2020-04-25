@@ -24,6 +24,7 @@ def format_x_data(folder):
 
 		f.close()
 
+	# Turns dictionary into numpy array
 	numerized_seqs = np.zeros([len(seq_dict), 10, 1000])
 	seqs = list(seq_dict.values())
 	for i in range(len(seqs)):
@@ -34,9 +35,12 @@ def format_x_data(folder):
 
 	return numerized_seqs
 
-def format_y_data(filename):
+def format_y_data(filename, categorize=False):
 	df = pd.read_excel(filename, sheet_name='MyResult')
 	affins = df['pKd pKi pIC50'].tolist()
+
+	if not categorize:
+		return affins
 
 	aff_categorized = []
 	for affin in affins:
