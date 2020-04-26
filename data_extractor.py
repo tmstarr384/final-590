@@ -4,9 +4,7 @@ import numpy as np
 import pandas as pd
 
 
-def format_x_data(folder):
-	print("Generating data...")
-
+def get_seq_dict(folder):
 	seq_dict = {}
 
 	# Get dictionary of sequences (key = PDB ID, value = list of sequences)
@@ -23,7 +21,12 @@ def format_x_data(folder):
 			seq_dict[pdb_id] = [sequence]
 
 		f.close()
+	return seq_dict
 
+def format_x_data(folder):
+	print("Generating data...")
+	seq_dict = get_seq_dict(folder)
+	
 	# Turns dictionary into numpy array
 	numerized_seqs = np.zeros([len(seq_dict), 10, 1000])
 	seqs = list(seq_dict.values())
