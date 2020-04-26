@@ -1,0 +1,138 @@
+#PiSITE data for 1a0bA generated at 2019-03
+#PDBID: 1A0B
+#CHAIN: A
+#----
+#Binding state and partners
+#pdbcode cluster_no seqid coverage binding_partners(partner_cluster_no:pdbcode)
+2a0b:A  0 100.00 100.00 
+1a0b:A  0 100.00 100.00 
+1bdj:B  1 100.00 100.00 1:1bdj:A:1 
+#Interaction for each residue
+#residue_no insertion_code residue_type number_of_binding_partners binding_partners
+ 652 . T  0 
+ 653 . T  0 
+ 654 . E  0 
+ 655 . E  0 
+ 656 . N  0 
+ 657 . S  0 
+ 658 . K  1 1|1bdj:A:1 
+ 659 . S  0 
+ 660 . E  0 
+ 661 . A  0 
+ 662 . L  0 
+ 663 . L  0 
+ 664 . D  0 
+ 665 . I  0 
+ 666 . P  0 
+ 667 . M  0 
+ 668 . L  0 
+ 669 . E  0 
+ 670 . Q  0 
+ 671 . Y  0 
+ 672 . L  0 
+ 673 . E  0 
+ 674 . L  0 
+ 675 . V  0 
+ 676 . G  0 
+ 677 . P  0 
+ 678 . K  0 
+ 679 . L  0 
+ 680 . I  0 
+ 681 . T  0 
+ 682 . D  0 
+ 683 . G  0 
+ 684 . L  0 
+ 685 . A  0 
+ 686 . V  0 
+ 687 . F  0 
+ 688 . E  0 
+ 689 . K  0 
+ 690 . M  0 
+ 691 . M  0 
+ 692 . P  0 
+ 693 . G  0 
+ 694 . Y  0 
+ 695 . V  0 
+ 696 . S  0 
+ 697 . V  0 
+ 698 . L  0 
+ 699 . E  0 
+ 700 . S  0 
+ 701 . N  0 
+ 702 . L  0 
+ 703 . T  0 
+ 704 . A  0 
+ 705 . Q  0 
+ 706 . D  0 
+ 707 . K  0 
+ 708 . K  0 
+ 709 . G  0 
+ 710 . I  0 
+ 711 . V  0 
+ 712 . E  0 
+ 713 . E  0 
+ 714 . G  0 
+ 715 . H  0 
+ 716 . K  0 
+ 717 . I  0 
+ 718 . K  0 
+ 719 . G  0 
+ 720 . A  0 
+ 721 . A  0 
+ 722 . G  0 
+ 723 . S  0 
+ 724 . V  0 
+ 725 . G  0 
+ 726 . L  0 
+ 727 . R  0 
+ 728 . H  0 
+ 729 . L  0 
+ 730 . Q  0 
+ 731 . Q  0 
+ 732 . L  0 
+ 733 . G  0 
+ 734 . Q  0 
+ 735 . Q  0 
+ 736 . I  0 
+ 737 . Q  0 
+ 738 . S  0 
+ 739 . P  0 
+ 740 . D  0 
+ 741 . L  0 
+ 742 . P  0 
+ 743 . A  0 
+ 744 . W  0 
+ 745 . E  0 
+ 746 . D  0 
+ 747 . N  0 
+ 748 . V  0 
+ 749 . G  0 
+ 750 . E  1 1|1bdj:A:1 
+ 751 . W  0 
+ 752 . I  0 
+ 753 . E  1 1|1bdj:A:1 
+ 754 . E  1 1|1bdj:A:1 
+ 755 . M  0 
+ 756 . K  0 
+ 757 . E  1 1|1bdj:A:1 
+ 758 . E  0 
+ 759 . W  0 
+ 760 . R  0 
+ 761 . H  1 1|1bdj:A:1 
+ 762 . D  0 
+ 763 . V  0 
+ 764 . E  0 
+ 765 . V  0 
+ 766 . L  0 
+ 767 . K  0 
+ 768 . A  0 
+ 769 . W  0 
+ 770 . V  0 
+ 771 . A  0 
+ 772 . K  0 
+ 773 . A  0 
+ 774 . T  0 
+ 775 . K  0 
+ 776 . K  0 
+
+

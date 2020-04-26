@@ -1,0 +1,348 @@
+#PiSITE data for 12gsB generated at 2019-03
+#PDBID: 12GS
+#CHAIN: B
+#----
+#Binding state and partners
+#pdbcode cluster_no seqid coverage binding_partners(partner_cluster_no:pdbcode)
+11gs:B  0 100.00 100.00 0:11gs:A:1 
+12gs:A  0 100.00 100.00 0:12gs:B:1 
+12gs:B  0 100.00 100.00 0:12gs:A:1 
+13gs:A  0 100.00 100.00 0:13gs:B:1 
+13gs:B  0 100.00 100.00 0:13gs:A:1 
+14gs:A  0 100.00 100.00 0:14gs:B:1 
+14gs:B  0 100.00 100.00 0:14gs:A:1 
+16gs:A  0 100.00 100.00 0:16gs:B:1 
+16gs:B  0 100.00 100.00 0:16gs:A:1 
+18gs:A  0 100.00 100.00 0:18gs:B:1 
+18gs:B  0 100.00 100.00 0:18gs:A:1 
+2a2r:A  0 100.00 100.00 0:2a2r:B:1 
+2a2r:B  0 100.00 100.00 0:2a2r:A:1 
+2a2s:A  0 100.00 100.00 0:2a2s:B:1 
+2a2s:B  0 100.00 100.00 0:2a2s:A:1 
+3dd3:A  0 100.00 100.00 0:3dd3:B:1 
+3dd3:B  0 100.00 100.00 0:3dd3:A:1 
+3dgq:A  0 100.00 100.00 0:3dgq:B:1 
+3dgq:B  0 100.00 100.00 0:3dgq:A:1 
+3n9j:A  0 100.00 100.00 0:3n9j:B:1 
+3n9j:B  0 100.00 100.00 0:3n9j:A:1 
+3pgt:A  0 100.00 100.00 0:3pgt:B:1 
+3pgt:B  0 100.00 100.00 0:3pgt:A:1 
+5dak:A  0 100.00 100.00 0:5dak:B:1 
+5dal:B  0 100.00 100.00 0:5dal:A:1 
+5dcg:A  0 100.00 100.00 0:5dcg:B:1 
+5dcg:B  0 100.00 100.00 0:5dcg:A:1 
+5ddl:A  0 100.00 100.00 0:5ddl:B:1 
+5ddl:B  0 100.00 100.00 0:5ddl:A:1 
+5djl:A  0 100.00 100.00 0:5djl:B:1 
+5djl:B  0 100.00 100.00 0:5djl:A:1 
+5djm:A  0 100.00 100.00 0:5djm:B:1 
+5djm:B  0 100.00 100.00 0:5djm:A:1 
+5jcw:A  0 100.00 100.00 0:5jcw:B:1 
+5jcw:B  0 100.00 100.00 0:5jcw:A:1 
+5x79:A  0 100.00 100.00 0:5x79:B:1 
+5x79:B  0 100.00 100.00 0:5x79:A:1 
+11gs:A  0 100.00 100.00 0:11gs:B:1 
+1pgt:B  0  99.52 100.00 0:1pgt:A:1 
+2pgt:A  0  99.52 100.00 0:2pgt:B:1 
+2pgt:B  0  99.52 100.00 0:2pgt:A:1 
+1pgt:A  0  99.52 100.00 0:1pgt:B:1 
+22gs:B  0  99.52 100.00 0:22gs:A:1 
+22gs:A  0  99.52 100.00 0:22gs:B:1 
+17gs:B  0  99.52 100.00 0:17gs:A:1 
+17gs:A  0  99.52 100.00 0:17gs:B:1 
+10gs:B  0 100.00  99.52 0:10gs:A:1 
+19gs:A  0 100.00  99.52 0:19gs:B:1 
+19gs:B  0 100.00  99.52 0:19gs:A:1 
+1aqv:A  0 100.00  99.52 0:1aqv:B:1 
+1aqv:B  0 100.00  99.52 0:1aqv:A:1 
+1aqw:A  0 100.00  99.52 0:1aqw:B:1 
+1aqw:B  0 100.00  99.52 0:1aqw:A:1 
+1aqx:A  0 100.00  99.52 0:1aqx:B:1 
+1aqx:B  0 100.00  99.52 0:1aqx:A:1 
+1gss:A  0 100.00  99.52 0:1gss:B:1 
+1gss:B  0 100.00  99.52 0:1gss:A:1 
+1zgn:A  0 100.00  99.52 0:1zgn:B:1 
+1zgn:B  0 100.00  99.52 0:1zgn:A:1 
+20gs:A  0 100.00  99.52 0:20gs:B:1 
+20gs:B  0 100.00  99.52 0:20gs:A:1 
+2gss:A  0 100.00  99.52 0:2gss:B:1 
+2gss:B  0 100.00  99.52 0:2gss:A:1 
+3csh:A  0 100.00  99.52 0:3csh:B:1 
+3csh:B  0 100.00  99.52 0:3csh:A:1 
+3csj:A  0 100.00  99.52 0:3csj:B:1 
+3csj:B  0 100.00  99.52 0:3csj:A:1 
+3gss:A  0 100.00  99.52 0:3gss:B:1 
+3gss:B  0 100.00  99.52 0:3gss:A:1 
+3gus:A  0 100.00  99.52 0:3gus:B:1 
+3gus:B  0 100.00  99.52 0:3gus:A:1 
+5gss:A  0 100.00  99.52 0:5gss:B:1 
+5gss:B  0 100.00  99.52 0:5gss:A:1 
+5j41:A  0 100.00  99.52 0:5j41:B:1 
+5j41:B  0 100.00  99.52 0:5j41:A:1 
+6gss:A  0 100.00  99.52 0:6gss:B:1 
+6gss:B  0 100.00  99.52 0:6gss:A:1 
+7gss:A  0 100.00  99.52 0:7gss:B:1 
+7gss:B  0 100.00  99.52 0:7gss:A:1 
+8gss:A  0 100.00  99.52 0:8gss:B:1 
+8gss:B  0 100.00  99.52 0:8gss:A:1 
+9gss:A  0 100.00  99.52 0:9gss:B:1 
+9gss:B  0 100.00  99.52 0:9gss:A:1 
+10gs:A  0 100.00  99.52 0:10gs:B:1 
+5l6x:B  0  99.52 100.00 0:5l6x:A:1 
+5l6x:A  0  99.52 100.00 0:5l6x:B:1 
+4gss:B  0  99.52  99.52 0:4gss:A:1 
+4gss:A  0  99.52  99.52 0:4gss:B:1 
+6ap9:B  0  99.52 100.00 0:6ap9:A:1 
+6ap9:A  0  99.52 100.00 0:6ap9:B:1 
+5dal:A  0  99.52 100.00 0:5dal:B:1 
+5dak:B  0  99.52 100.00 0:5dak:A:1 
+1px7:B  0  99.52  99.52 0:1px7:A:1 
+1px7:A  0  99.52  99.52 0:1px7:B:1 
+1md3:B  0  99.52  99.52 0:1md3:A:1 
+1md3:A  0  99.52  99.52 0:1md3:B:1 
+1px6:B  0  99.52  99.52 0:1px6:A:1 
+1px6:A  0  99.52  99.52 0:1px6:B:1 
+4pgt:B  0  99.05 100.00 0:4pgt:A:1 
+4pgt:A  0  99.05 100.00 0:4pgt:B:1 
+3ie3:B  0  99.52  99.52 0:3ie3:A:1 
+3ie3:A  0  99.52  99.52 0:3ie3:B:1 
+3csi:C  0  99.04  99.52 0:3csi:D:1 
+3csi:D  0  99.04  99.52 0:3csi:C:1 
+3hjm:B  0  99.52  99.52 0:3hjm:A:1 
+3hjo:A  0  99.52  99.52 0:3hjo:B:1 
+3hjo:B  0  99.52  99.52 0:3hjo:A:1 
+3hkr:A  0  99.52  99.52 0:3hkr:B:1 
+3hkr:B  0  99.52  99.52 0:3hkr:A:1 
+3hjm:A  0  99.52  99.52 0:3hjm:B:1 
+1eoh:B  0  99.52  99.52 0:1eoh:A:1 
+1eoh:A  0  99.52  99.52 0:1eoh:B:1 
+1md4:B  0  99.52  99.52 0:1md4:A:1 
+1md4:A  0  99.52  99.52 0:1md4:B:1 
+1eog:B  0  99.52  99.05 0:1eog:A:1 
+1eog:A  0  99.52  99.05 0:1eog:B:1 
+1kbn:B  0  99.04  99.52 0:1kbn:A:1 
+1kbn:A  0  99.04  99.52 0:1kbn:B:1 
+3km6:B  0  99.04  99.52 0:3km6:A:1 
+3kmn:A  0  99.04  99.52 0:3kmn:B:1 
+3kmn:B  0  99.04  99.52 0:3kmn:A:1 
+3kmo:A  0  99.04  99.52 0:3kmo:B:1 
+3kmo:B  0  99.04  99.52 0:3kmo:A:1 
+3km6:A  0  99.04  99.52 0:3km6:B:1 
+2j9h:B  0  98.09  99.52 0:2j9h:A:1 
+2j9h:A  0  98.09  99.52 0:2j9h:B:1 
+1lbk:B  0  99.02  97.14 0:1lbk:A:1 
+1lbk:A  0  99.02  97.14 0:1lbk:B:1 
+#Interaction for each residue
+#residue_no insertion_code residue_type number_of_binding_partners binding_partners
+   0 . M  0 
+   1 . P  0 
+   2 . P  0 
+   3 . Y  0 
+   4 . T  0 
+   5 . V  0 
+   6 . V  0 
+   7 . Y  0 
+   8 . F  0 
+   9 . P  0 
+  10 . V  0 
+  11 . R  0 
+  12 . G  0 
+  13 . R  0 
+  14 . C  0 
+  15 . A  0 
+  16 . A  0 
+  17 . L  0 
+  18 . R  0 
+  19 . M  0 
+  20 . L  0 
+  21 . L  0 
+  22 . A  0 
+  23 . D  0 
+  24 . Q  0 
+  25 . G  0 
+  26 . Q  0 
+  27 . S  0 
+  28 . W  0 
+  29 . K  0 
+  30 . E  0 
+  31 . E  0 
+  32 . V  0 
+  33 . V  0 
+  34 . T  0 
+  35 . V  0 
+  36 . E  0 
+  37 . T  0 
+  38 . W  0 
+  39 . Q  0 
+  40 . E  0 
+  41 . G  0 
+  42 . S  0 
+  43 . L  0 
+  44 . K  0 
+  45 . A  0 
+  46 . S  0 
+  47 . C  0 
+  48 . L  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  49 . Y  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  50 . G  0 
+  51 . Q  1 0|3n9j:B:1 0|3kmn:B:1 
+  52 . L  0 
+  53 . P  0 
+  54 . K  0 
+  55 . F  0 
+  56 . Q  0 
+  57 . D  0 
+  58 . G  0 
+  59 . D  1 0|1aqw:A:1 0|1aqx:A:1 0|3csj:A:1 0|3kmo:B:1 0|3kmo:A:1 
+  60 . L  1 0|12gs:A:1 0|13gs:B:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:A:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|19gs:B:1 0|19gs:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|5l6x:A:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1md3:A:1 0|1md3:B:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3km6:B:1 0|2j9h:A:1 0|1lbk:A:1 0|1lbk:B:1 
+  61 . T  1 0|5dak:B:1 0|5dak:A:1 
+  62 . L  1 0|11gs:A:1 0|14gs:B:1 0|16gs:B:1 0|16gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|2gss:B:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gus:B:1 0|3gus:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|5l6x:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:B:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1md4:A:1 0|1md4:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  63 . Y  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  64 . Q  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  65 . S  0 
+  66 . N  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  67 . T  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  68 . I  0 
+  69 . L  0 
+  70 . R  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  71 . H  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqx:A:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  72 . L  0 
+  73 . G  0 
+  74 . R  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  75 . T  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  76 . L  0 
+  77 . G  0 
+  78 . L  0 
+  79 . Y  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  80 . G  0 
+  81 . K  0 
+  82 . D  0 
+  83 . Q  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  84 . Q  1 0|12gs:B:1 0|13gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5jcw:B:1 0|5x79:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|19gs:B:1 0|19gs:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:A:1 0|1zgn:B:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hjm:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  85 . E  0 
+  86 . A  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  87 . A  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  88 . L  1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:A:1 0|5x79:A:1 0|1aqx:B:1 0|20gs:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|6ap9:A:1 0|1md3:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3csi:D:1 0|3csi:C:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 
+  89 . V  0 
+  90 . D  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  91 . M  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  92 . V  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  93 . N  0 
+  94 . D  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dak:B:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|5dak:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  95 . G  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  96 . V  0 
+  97 . E  0 
+  98 . D  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+  99 . L  0 
+ 100 . R  0 
+ 101 . C  0 
+ 102 . K  0 
+ 103 . Y  0 
+ 104 . I  0 
+ 105 . S  0 
+ 106 . L  0 
+ 107 . I  0 
+ 108 . Y  0 
+ 109 . T  0 
+ 110 . N  0 
+ 111 . Y  0 
+ 112 . E  0 
+ 113 . A  0 
+ 114 . G  0 
+ 115 . K  0 
+ 116 . D  0 
+ 117 . D  0 
+ 118 . Y  0 
+ 119 . V  0 
+ 120 . K  0 
+ 121 . A  0 
+ 122 . L  0 
+ 123 . P  0 
+ 124 . G  0 
+ 125 . Q  0 
+ 126 . L  0 
+ 127 . K  0 
+ 128 . P  1 0|11gs:A:1 0|12gs:B:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:B:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:B:1 0|2pgt:A:1 0|1pgt:B:1 0|22gs:A:1 0|22gs:B:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqv:A:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|20gs:B:1 0|20gs:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1md3:B:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1md4:B:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:A:1 0|1lbk:B:1 
+ 129 . F  1 0|11gs:A:1 0|12gs:A:1 0|13gs:B:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:B:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:B:1 0|2a2s:A:1 0|3dd3:B:1 0|3dd3:A:1 0|3dgq:B:1 0|3dgq:A:1 0|3n9j:B:1 0|3n9j:A:1 0|3pgt:B:1 0|3pgt:A:1 0|5dal:A:1 0|5dcg:B:1 0|5dcg:A:1 0|5ddl:B:1 0|5ddl:A:1 0|5djl:B:1 0|5djl:A:1 0|5djm:A:1 0|5jcw:B:1 0|5jcw:A:1 0|5x79:B:1 0|5x79:A:1 0|11gs:B:1 0|1pgt:A:1 0|2pgt:A:1 0|22gs:A:1 0|17gs:A:1 0|17gs:B:1 0|10gs:A:1 0|19gs:B:1 0|19gs:A:1 0|1aqv:B:1 0|1aqw:B:1 0|1aqw:A:1 0|1aqx:B:1 0|1gss:B:1 0|1gss:A:1 0|1zgn:B:1 0|1zgn:A:1 0|2gss:B:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|5j41:B:1 0|5j41:A:1 0|6gss:B:1 0|6gss:A:1 0|7gss:B:1 0|7gss:A:1 0|8gss:A:1 0|9gss:B:1 0|9gss:A:1 0|10gs:B:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|4gss:B:1 0|6ap9:A:1 0|6ap9:B:1 0|5dal:B:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:A:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3csi:D:1 0|3csi:C:1 0|3hjm:A:1 0|3hjo:B:1 0|3hjo:A:1 0|3hkr:B:1 0|3hkr:A:1 0|3hjm:B:1 0|1eoh:A:1 0|1eoh:B:1 0|1md4:A:1 0|1eog:A:1 0|1eog:B:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmn:A:1 0|3kmo:B:1 0|3km6:B:1 0|2j9h:A:1 0|1lbk:A:1 0|1lbk:B:1 
+ 130 . E  0 
+ 131 . T  0 
+ 132 . L  1 0|11gs:A:1 0|12gs:A:1 0|13gs:A:1 0|14gs:B:1 0|14gs:A:1 0|16gs:A:1 0|18gs:B:1 0|18gs:A:1 0|2a2r:B:1 0|2a2r:A:1 0|2a2s:A:1 0|3dgq:A:1 0|3n9j:A:1 0|3pgt:B:1 0|5dal:A:1 0|5dcg:A:1 0|5ddl:A:1 0|5djl:A:1 0|5djm:A:1 0|5x79:B:1 0|5x79:A:1 0|1pgt:A:1 0|2pgt:A:1 0|10gs:A:1 0|1aqv:B:1 0|1aqw:B:1 0|1aqx:B:1 0|1aqx:A:1 0|1gss:B:1 0|1gss:A:1 0|20gs:A:1 0|2gss:A:1 0|3csh:B:1 0|3csh:A:1 0|3csj:B:1 0|3csj:A:1 0|3gss:B:1 0|3gss:A:1 0|3gus:B:1 0|3gus:A:1 0|5gss:B:1 0|5gss:A:1 0|6gss:A:1 0|7gss:A:1 0|8gss:B:1 0|8gss:A:1 0|9gss:A:1 0|5l6x:A:1 0|5l6x:B:1 0|4gss:A:1 0|6ap9:A:1 0|1px7:A:1 0|1px7:B:1 0|1md3:A:1 0|1px6:A:1 0|1px6:B:1 0|4pgt:B:1 0|3ie3:A:1 0|3ie3:B:1 0|3hjo:A:1 0|3hkr:A:1 0|1eoh:A:1 0|1eoh:B:1 0|1eog:A:1 0|1kbn:A:1 0|1kbn:B:1 0|3km6:A:1 0|3kmn:B:1 0|3kmo:B:1 0|3kmo:A:1 0|3km6:B:1 0|2j9h:A:1 0|2j9h:B:1 0|1lbk:B:1 
+ 133 . L  0 
+ 134 . S  0 
+ 135 . Q  0 
+ 136 . N  0 
+ 137 . Q  0 
+ 138 . G  0 
+ 139 . G  0 
+ 140 . K  0 
+ 141 . T  0 
+ 142 . F  0 
+ 143 . I  0 
+ 144 . V  0 
+ 145 . G  0 
+ 146 . D  0 
+ 147 . Q  0 
+ 148 . I  0 
+ 149 . S  0 
+ 150 . F  0 
+ 151 . A  0 
+ 152 . D  0 
+ 153 . Y  0 
+ 154 . N  0 
+ 155 . L  0 
+ 156 . L  0 
+ 157 . D  0 
+ 158 . L  0 
+ 159 . L  0 
+ 160 . L  0 
+ 161 . I  0 
+ 162 . H  0 
+ 163 . E  0 
+ 164 . V  0 
+ 165 . L  0 
+ 166 . A  0 
+ 167 . P  0 
+ 168 . G  0 
+ 169 . C  0 
+ 170 . L  0 
+ 171 . D  0 
+ 172 . A  0 
+ 173 . F  0 
+ 174 . P  0 
+ 175 . L  0 
+ 176 . L  0 
+ 177 . S  0 
+ 178 . A  0 
+ 179 . Y  0 
+ 180 . V  0 
+ 181 . G  0 
+ 182 . R  0 
+ 183 . L  0 
+ 184 . S  0 
+ 185 . A  0 
+ 186 . R  0 
+ 187 . P  0 
+ 188 . K  0 
+ 189 . L  0 
+ 190 . K  0 
+ 191 . A  0 
+ 192 . F  0 
+ 193 . L  0 
+ 194 . A  0 
+ 195 . S  0 
+ 196 . P  0 
+ 197 . E  0 
+ 198 . Y  0 
+ 199 . V  0 
+ 200 . N  0 
+ 201 . L  0 
+ 202 . P  0 
+ 203 . I  0 
+ 204 . N  0 
+ 205 . G  0 
+ 206 . N  0 
+ 207 . G  0 
+ 208 . K  0 
+ 209 . Q  0 
+
+

@@ -1,0 +1,233 @@
+#PiSITE data for 2a06R generated at 2019-03
+#PDBID: 2A06
+#CHAIN: R
+#----
+#Binding state and partners
+#pdbcode cluster_no seqid coverage binding_partners(partner_cluster_no:pdbcode)
+1pp9:E  0 100.00 100.00 1:1pp9:J:1 2:1pp9:G:1 3:1pp9:D:1 4:1pp9:P:1 4:1pp9:C:1 5:1pp9:A:1 
+1pp9:R  0 100.00 100.00 1:1pp9:W:1 2:1pp9:T:1 3:1pp9:Q:1 4:1pp9:P:1 4:1pp9:C:1 5:1pp9:N:1 
+1ppj:E  0 100.00 100.00 1:1ppj:J:1 2:1ppj:G:1 3:1ppj:D:1 4:1ppj:P:1 4:1ppj:C:1 5:1ppj:A:1 
+1ppj:R  0 100.00 100.00 1:1ppj:W:1 2:1ppj:T:1 3:1ppj:Q:1 4:1ppj:P:1 4:1ppj:C:1 5:1ppj:N:1 
+2a06:E  0 100.00 100.00 1:2a06:J:1 2:2a06:G:1 3:2a06:D:1 4:2a06:P:1 4:2a06:C:1 5:2a06:A:1 
+2a06:R  0 100.00 100.00 1:2a06:W:1 2:2a06:T:1 3:2a06:Q:1 4:2a06:P:1 4:2a06:C:1 5:2a06:N:1 
+3bcc:E  0  93.88 100.00 1:3bcc:J:1 2:3bcc:G:1 3:3bcc:D:1 4:3bcc:C:2 4:3bcc:C:1 5:3bcc:A:1 
+1bcc:E  0  93.88 100.00 1:1bcc:J:1 2:1bcc:G:1 3:1bcc:D:1 4:1bcc:C:1 4:1bcc:C:2 5:1bcc:A:1 
+1qcr:E  1 100.00 100.00 
+5okd:E  2 100.00 100.00 1:5okd:J:1 2:5okd:G:1 3:5okd:D:1 4:5okd:C:1 5:5okd:A:1 
+2bcc:E  2  93.88 100.00 1:2bcc:J:1 2:2bcc:G:1 3:2bcc:D:1 4:2bcc:C:1 5:2bcc:A:1 
+1l0l:E  3 100.00 100.00 1:1l0l:J:1 2:1l0l:G:1 3:1l0l:D:1 4:1l0l:C:1 5:1l0l:A:1 6:1l0l:K:1 
+1l0n:E  3 100.00 100.00 1:1l0n:J:1 2:1l0n:G:1 3:1l0n:D:1 4:1l0n:C:1 5:1l0n:A:1 6:1l0n:K:1 
+1be3:E  3 100.00 100.00 1:1be3:J:1 2:1be3:G:1 3:1be3:D:1 4:1be3:C:1 5:1be3:A:1 6:1be3:K:1 
+1bgy:E  4 100.00 100.00 1:1bgy:J:1 2:1bgy:G:1 3:1bgy:D:1 4:1bgy:C:1 4:1bgy:O:1 5:1bgy:A:1 6:1bgy:K:1 
+1bgy:Q  4 100.00 100.00 1:1bgy:V:1 2:1bgy:S:1 3:1bgy:P:1 4:1bgy:C:1 4:1bgy:O:1 5:1bgy:M:1 6:1bgy:W:1 
+1ntk:E  4 100.00 100.00 1:1ntk:J:1 2:1ntk:G:1 3:1ntk:D:1 4:1ntk:C:1 4:1ntk:C:2 5:1ntk:A:1 6:1ntk:K:1 
+1ntm:E  4 100.00 100.00 1:1ntm:J:1 2:1ntm:G:1 3:1ntm:D:1 4:1ntm:C:2 4:1ntm:C:1 5:1ntm:A:1 6:1ntm:K:1 
+1ntz:E  4 100.00 100.00 1:1ntz:J:1 2:1ntz:G:1 3:1ntz:D:1 4:1ntz:C:1 4:1ntz:C:2 5:1ntz:A:1 6:1ntz:K:1 
+1nu1:E  4 100.00 100.00 1:1nu1:J:1 2:1nu1:G:1 3:1nu1:D:1 4:1nu1:C:2 4:1nu1:C:1 5:1nu1:A:1 6:1nu1:K:1 
+1sqb:E  4 100.00 100.00 1:1sqb:J:1 2:1sqb:G:1 3:1sqb:D:1 4:1sqb:C:2 4:1sqb:C:1 5:1sqb:A:1 6:1sqb:K:1 
+1sqp:E  4 100.00 100.00 1:1sqp:J:1 2:1sqp:G:1 3:1sqp:D:1 4:1sqp:C:2 4:1sqp:C:1 5:1sqp:A:1 6:1sqp:K:1 
+1sqq:E  4 100.00 100.00 1:1sqq:J:1 2:1sqq:G:1 3:1sqq:D:1 4:1sqq:C:2 4:1sqq:C:1 5:1sqq:A:1 6:1sqq:K:1 
+1sqv:E  4 100.00 100.00 1:1sqv:J:1 2:1sqv:G:1 3:1sqv:D:1 4:1sqv:C:2 4:1sqv:C:1 5:1sqv:A:1 6:1sqv:K:1 
+1sqx:E  4 100.00 100.00 1:1sqx:J:1 2:1sqx:G:1 3:1sqx:D:1 4:1sqx:C:1 4:1sqx:C:2 5:1sqx:A:1 6:1sqx:K:1 
+2fyu:E  4 100.00 100.00 1:2fyu:J:2 2:2fyu:G:2 3:2fyu:D:2 4:2fyu:C:2 4:2fyu:C:1 5:2fyu:A:2 6:2fyu:K:2 
+5klv:E  4 100.00 100.00 1:5klv:J:2 2:5klv:G:2 3:5klv:D:2 4:5klv:C:1 4:5klv:C:2 5:5klv:A:2 6:5klv:K:2 
+#Interaction for each residue
+#residue_no insertion_code residue_type number_of_binding_partners binding_partners
+   1 . S  2 5|1pp9:A:1 5|1pp9:D:1 5|1pp9:N:1 5|1pp9:Q:1 5|1ppj:A:1 5|1ppj:D:1 5|1ppj:N:1 5|1ppj:Q:1 5|2a06:A:1 5|2a06:D:1 5|2a06:N:1 5|2a06:Q:1 5|3bcc:A:1 5|1bcc:A:1 5|5okd:A:1 5|5okd:D:1 5|2bcc:A:1 6|1l0l:A:1 6|1l0l:D:1 6|1l0n:A:1 6|1l0n:D:1 6|1be3:A:1 6|1be3:D:1 6|1bgy:A:1 6|1bgy:D:1 6|1bgy:M:1 6|1bgy:P:1 6|1ntk:A:1 6|1ntk:D:1 6|1ntm:A:1 6|1ntm:D:1 6|1ntz:A:1 6|1ntz:D:1 6|1nu1:A:1 6|1nu1:D:1 6|1sqb:A:1 6|1sqb:D:1 6|1sqp:A:1 6|1sqp:D:1 6|1sqq:A:1 6|1sqq:D:1 6|1sqv:A:1 6|1sqv:D:1 6|1sqx:A:1 6|1sqx:D:1 6|2fyu:A:2 6|2fyu:D:2 6|5klv:A:2 6|5klv:D:2 
+   2 . H  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:A:1 5|1bcc:A:1 5|5okd:A:1 5|2bcc:A:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:A:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+   3 . T  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:A:1 5|1bcc:A:1 5|5okd:A:1 5|2bcc:A:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:A:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+   4 . D  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:D:1 5|3bcc:A:1 5|1bcc:D:1 5|1bcc:A:1 5|5okd:A:1 5|2bcc:D:1 5|2bcc:A:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:D:1 6|1be3:A:1 6|1bgy:D:1 6|1bgy:A:1 6|1bgy:P:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:D:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqv:D:1 6|1sqx:D:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+   5 . I  2 5|1pp9:G:1 5|1pp9:A:1 5|1pp9:T:1 5|1pp9:N:1 5|1ppj:G:1 5|1ppj:A:1 5|1ppj:T:1 5|1ppj:N:1 5|2a06:D:1 5|2a06:G:1 5|2a06:A:1 5|2a06:T:1 5|2a06:N:1 5|3bcc:D:1 5|3bcc:A:1 5|3bcc:G:1 5|1bcc:D:1 5|1bcc:G:1 5|1bcc:A:1 5|5okd:D:1 5|5okd:G:1 5|5okd:A:1 5|2bcc:D:1 5|2bcc:A:1 5|2bcc:G:1 6|1l0l:G:1 6|1l0l:A:1 6|1l0l:D:1 6|1l0n:D:1 6|1l0n:G:1 6|1l0n:A:1 6|1bgy:G:1 6|1bgy:S:1 6|1bgy:M:1 6|1ntk:D:1 6|1ntk:G:1 6|1ntk:A:1 6|1ntm:D:1 6|1ntm:G:1 6|1ntm:A:1 6|1ntz:D:1 6|1ntz:G:1 6|1ntz:A:1 6|1nu1:G:1 6|1nu1:A:1 6|1sqb:D:1 6|1sqb:G:1 6|1sqb:A:1 6|1sqp:D:1 6|1sqp:G:1 6|1sqp:A:1 6|1sqq:D:1 6|1sqq:G:1 6|1sqq:A:1 6|1sqv:G:1 6|1sqv:A:1 6|1sqv:D:1 6|1sqx:D:1 6|1sqx:G:1 6|1sqx:A:1 6|2fyu:D:2 6|2fyu:G:2 6|2fyu:A:2 6|5klv:G:2 6|5klv:A:2 
+   6 . K  2 5|1pp9:G:1 5|1pp9:A:1 5|1pp9:T:1 5|1ppj:A:1 5|1ppj:T:1 5|1ppj:N:1 5|2a06:G:1 5|2a06:A:1 5|2a06:T:1 5|2a06:N:1 5|3bcc:G:1 5|3bcc:A:1 5|1bcc:G:1 5|5okd:A:1 5|2bcc:G:1 6|1l0l:G:1 6|1l0l:A:1 6|1l0n:G:1 6|1l0n:D:1 6|1bgy:S:1 6|1ntk:G:1 6|1ntm:G:1 6|1ntm:A:1 6|1ntz:G:1 6|1ntz:D:1 6|1nu1:G:1 6|1sqb:G:1 6|1sqb:A:1 6|1sqp:G:1 6|1sqp:A:1 6|1sqq:G:1 6|1sqq:A:1 6|1sqv:G:1 6|1sqv:A:1 6|1sqx:G:1 6|1sqx:A:1 6|2fyu:G:2 6|2fyu:A:2 6|5klv:G:2 6|5klv:A:2 
+   7 . V  2 5|1pp9:A:1 5|1pp9:T:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:T:1 5|1ppj:N:1 5|2a06:G:1 5|2a06:A:1 5|2a06:T:1 5|2a06:N:1 5|3bcc:G:1 5|3bcc:A:1 5|1bcc:G:1 5|1bcc:A:1 5|5okd:A:1 5|2bcc:G:1 5|2bcc:A:1 6|1l0l:G:1 6|1l0l:A:1 6|1l0n:A:1 6|1l0n:G:1 6|1be3:A:1 6|1be3:G:1 6|1bgy:A:1 6|1bgy:G:1 6|1bgy:M:1 6|1bgy:S:1 6|1ntk:G:1 6|1ntk:A:1 6|1ntm:G:1 6|1ntm:A:1 6|1ntz:A:1 6|1ntz:G:1 6|1nu1:G:1 6|1nu1:A:1 6|1sqb:G:1 6|1sqb:A:1 6|1sqp:G:1 6|1sqp:A:1 6|1sqq:G:1 6|1sqq:A:1 6|1sqv:G:1 6|1sqv:A:1 6|1sqx:G:1 6|1sqx:A:1 6|2fyu:G:2 6|2fyu:A:2 6|5klv:A:2 
+   8 . P  2 5|1pp9:D:1 5|1pp9:G:1 5|1pp9:Q:1 5|1pp9:T:1 5|1ppj:D:1 5|1ppj:G:1 5|1ppj:Q:1 5|1ppj:T:1 5|2a06:D:1 5|2a06:G:1 5|2a06:Q:1 5|2a06:T:1 5|3bcc:D:1 5|3bcc:G:1 5|1bcc:D:1 5|1bcc:G:1 5|5okd:G:1 5|2bcc:D:1 5|2bcc:G:1 6|1l0l:D:1 6|1l0l:G:1 6|1l0n:D:1 6|1l0n:G:1 6|1be3:G:1 6|1bgy:G:1 6|1bgy:S:1 6|1ntk:D:1 6|1ntk:G:1 6|1ntm:D:1 6|1ntm:G:1 6|1ntz:D:1 6|1ntz:G:1 6|1nu1:D:1 6|1nu1:G:1 6|1sqb:G:1 6|1sqp:G:1 6|1sqp:D:1 6|1sqq:G:1 6|1sqv:D:1 6|1sqv:G:1 6|1sqx:G:1 6|2fyu:D:2 6|2fyu:G:2 6|5klv:D:2 6|5klv:G:2 
+   9 . D  2 5|1pp9:D:1 5|1pp9:Q:1 5|1ppj:D:1 5|1ppj:Q:1 5|2a06:D:1 5|2a06:Q:1 5|1bcc:D:1 6|1ntz:D:1 6|2fyu:D:2 6|5klv:D:2 
+  10 . F  2 5|1pp9:G:1 5|1pp9:D:1 5|1pp9:A:1 5|1pp9:T:1 5|1pp9:Q:1 5|1pp9:N:1 5|1ppj:G:1 5|1ppj:D:1 5|1ppj:A:1 5|1ppj:T:1 5|1ppj:Q:1 5|1ppj:N:1 5|2a06:G:1 5|2a06:D:1 5|2a06:A:1 5|2a06:T:1 5|2a06:Q:1 5|2a06:N:1 5|3bcc:G:1 5|3bcc:D:1 5|1bcc:G:1 5|1bcc:D:1 5|5okd:G:1 5|5okd:A:1 5|5okd:D:1 5|2bcc:G:1 5|2bcc:D:1 6|1l0l:G:1 6|1l0l:A:1 6|1l0l:D:1 6|1l0n:G:1 6|1l0n:D:1 6|1be3:G:1 6|1be3:A:1 6|1be3:D:1 6|1bgy:G:1 6|1bgy:A:1 6|1bgy:D:1 6|1bgy:S:1 6|1bgy:M:1 6|1bgy:P:1 6|1ntk:G:1 6|1ntk:A:1 6|1ntk:D:1 6|1ntm:G:1 6|1ntm:A:1 6|1ntm:D:1 6|1ntz:G:1 6|1ntz:A:1 6|1ntz:D:1 6|1nu1:A:1 6|1nu1:D:1 6|1sqb:G:1 6|1sqb:A:1 6|1sqb:D:1 6|1sqp:D:1 6|1sqp:G:1 6|1sqq:G:1 6|1sqq:A:1 6|1sqq:D:1 6|1sqv:G:1 6|1sqv:A:1 6|1sqv:D:1 6|1sqx:G:1 6|1sqx:A:1 6|1sqx:D:1 6|2fyu:G:2 6|2fyu:D:2 6|5klv:A:2 6|5klv:D:2 
+  11 . S  0 
+  12 . D  2 5|1pp9:G:1 5|1pp9:T:1 5|1ppj:G:1 5|1ppj:T:1 5|2a06:G:1 5|2a06:T:1 5|3bcc:G:1 5|1bcc:G:1 5|5okd:G:1 5|2bcc:G:1 6|1l0l:G:1 6|1l0n:G:1 6|1be3:G:1 6|1bgy:G:1 6|1bgy:S:1 6|1ntk:G:1 6|1ntm:G:1 6|1ntz:G:1 6|1nu1:G:1 6|1sqb:G:1 6|1sqp:G:1 6|1sqq:G:1 6|1sqv:G:1 6|1sqx:G:1 6|2fyu:G:2 6|5klv:G:2 
+  13 . Y  2 5|1pp9:G:1 5|1pp9:D:1 5|1pp9:T:1 5|1pp9:Q:1 5|1ppj:G:1 5|1ppj:D:1 5|1ppj:T:1 5|1ppj:Q:1 5|2a06:G:1 5|2a06:D:1 5|2a06:T:1 5|2a06:Q:1 5|3bcc:G:1 5|1bcc:G:1 5|5okd:G:1 5|5okd:D:1 5|2bcc:G:1 6|1l0l:G:1 6|1l0l:D:1 6|1l0n:G:1 6|1l0n:D:1 6|1be3:G:1 6|1be3:D:1 6|1bgy:G:1 6|1bgy:D:1 6|1bgy:S:1 6|1bgy:P:1 6|1ntk:G:1 6|1ntk:D:1 6|1ntm:G:1 6|1ntm:D:1 6|1ntz:G:1 6|1ntz:D:1 6|1nu1:G:1 6|1nu1:D:1 6|1sqb:G:1 6|1sqb:D:1 6|1sqp:G:1 6|1sqp:D:1 6|1sqq:G:1 6|1sqq:D:1 6|1sqv:G:1 6|1sqv:D:1 6|1sqx:G:1 6|1sqx:D:1 6|2fyu:G:2 6|2fyu:D:2 6|5klv:G:2 6|5klv:D:2 
+  14 . R  2 5|1pp9:G:1 5|1pp9:A:1 5|1pp9:T:1 5|1pp9:N:1 5|1ppj:G:1 5|1ppj:A:1 5|1ppj:T:1 5|1ppj:N:1 5|2a06:G:1 5|2a06:A:1 5|2a06:T:1 5|2a06:N:1 5|3bcc:G:1 5|3bcc:D:1 5|1bcc:G:1 5|1bcc:D:1 5|5okd:G:1 5|5okd:A:1 5|2bcc:G:1 5|2bcc:D:1 6|1l0l:G:1 6|1l0l:A:1 6|1l0n:G:1 6|1l0n:A:1 6|1be3:G:1 6|1be3:A:1 6|1bgy:G:1 6|1bgy:A:1 6|1bgy:S:1 6|1bgy:M:1 6|1ntk:G:1 6|1ntk:A:1 6|1ntm:G:1 6|1ntm:A:1 6|1ntz:G:1 6|1ntz:A:1 6|1nu1:G:1 6|1nu1:A:1 6|1sqb:G:1 6|1sqb:A:1 6|1sqp:G:1 6|1sqp:A:1 6|1sqq:G:1 6|1sqq:A:1 6|1sqv:G:1 6|1sqv:A:1 6|1sqx:G:1 6|1sqx:A:1 6|2fyu:G:2 6|2fyu:A:2 6|5klv:G:2 6|5klv:A:2 
+  15 . R  2 5|1pp9:G:1 5|1pp9:D:1 5|1pp9:T:1 5|1pp9:Q:1 5|1ppj:G:1 5|1ppj:T:1 5|2a06:G:1 5|2a06:T:1 5|2a06:Q:1 5|3bcc:G:1 5|3bcc:A:1 5|1bcc:G:1 5|1bcc:A:1 5|5okd:G:1 5|5okd:D:1 5|2bcc:G:1 5|2bcc:A:1 6|1l0l:G:1 6|1l0l:D:1 6|1l0n:G:1 6|1l0n:D:1 6|1be3:G:1 6|1bgy:G:1 6|1bgy:S:1 6|1ntk:G:1 6|1ntk:D:1 6|1ntm:G:1 6|1ntm:D:1 6|1ntz:G:1 6|1ntz:D:1 6|1nu1:G:1 6|1nu1:D:1 6|1sqb:G:1 6|1sqb:D:1 6|1sqp:G:1 6|1sqp:D:1 6|1sqq:G:1 6|1sqv:G:1 6|1sqv:D:1 6|1sqx:G:1 6|1sqx:D:1 6|2fyu:G:2 6|2fyu:D:2 6|5klv:G:2 
+  16 . P  2 5|3bcc:G:1 5|1bcc:G:1 5|5okd:G:1 5|2bcc:G:1 6|1l0l:G:1 6|1l0n:G:1 6|1ntk:G:1 6|1ntm:G:1 6|1ntz:G:1 6|1nu1:G:1 6|1sqb:G:1 6|1sqp:G:1 6|1sqq:G:1 6|1sqv:G:1 6|1sqx:G:1 6|2fyu:G:2 
+  17 . E  1 5|1bcc:G:1 
+  18 . V  2 5|1pp9:A:1 5|1pp9:G:1 5|1pp9:N:1 5|1pp9:T:1 5|1ppj:A:1 5|1ppj:G:1 5|1ppj:N:1 5|1ppj:T:1 5|2a06:A:1 5|2a06:G:1 5|2a06:N:1 5|2a06:T:1 5|5okd:A:1 5|5okd:G:1 6|1l0l:G:1 6|1l0n:A:1 6|1be3:A:1 6|1be3:G:1 6|1bgy:G:1 6|1bgy:M:1 6|1bgy:S:1 6|1ntk:A:1 6|1ntk:G:1 6|1ntm:A:1 6|1ntm:G:1 6|1ntz:A:1 6|1nu1:A:1 6|1nu1:G:1 6|1sqb:A:1 6|1sqb:G:1 6|1sqp:G:1 6|1sqq:G:1 6|1sqv:A:1 6|1sqv:G:1 6|1sqx:A:1 6|1sqx:G:1 6|2fyu:A:2 6|2fyu:G:2 6|5klv:A:2 6|5klv:G:2 
+  19 . L  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:A:1 5|3bcc:G:1 5|1bcc:A:1 5|1bcc:G:1 5|5okd:A:1 5|2bcc:A:1 5|2bcc:G:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:A:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+  20 . D  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:A:1 5|1bcc:A:1 5|1bcc:G:1 5|5okd:A:1 5|2bcc:A:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:A:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+  21 . S  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:A:1 5|1bcc:A:1 5|5okd:A:1 5|2bcc:A:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:A:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+  22 . T  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:A:1 5|1bcc:A:1 5|5okd:A:1 5|2bcc:A:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:A:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+  23 . K  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|5okd:A:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:A:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+  24 . S  2 5|5okd:A:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1sqb:A:1 6|1sqp:A:1 
+  25 . S  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:A:1 5|3bcc:G:1 5|1bcc:A:1 5|5okd:A:1 5|2bcc:A:1 5|2bcc:G:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:A:1 6|1bgy:M:1 6|1ntk:G:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1nu1:G:1 6|1sqb:A:1 6|1sqb:G:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+  26 . K  2 5|1pp9:A:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:N:1 5|2a06:A:1 5|2a06:N:1 5|3bcc:A:1 5|1bcc:A:1 5|5okd:A:1 5|2bcc:A:1 6|1l0l:A:1 6|1l0n:A:1 6|1be3:A:1 6|1bgy:M:1 6|1ntk:A:1 6|1ntm:A:1 6|1ntz:A:1 6|1nu1:A:1 6|1sqb:A:1 6|1sqp:A:1 6|1sqq:A:1 6|1sqv:A:1 6|1sqx:A:1 6|2fyu:A:2 6|5klv:A:2 
+  27 . E  0 
+  28 . S  0 
+  29 . S  2 5|3bcc:G:1 5|1bcc:G:1 5|2bcc:G:1 6|1ntk:A:1 6|1sqv:A:1 6|1sqx:A:1 
+  30 . E  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:J:1 5|1bcc:J:1 5|5okd:J:1 5|2bcc:J:1 6|1l0l:J:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:V:1 6|1ntk:J:1 6|1ntm:J:1 6|1ntz:J:1 6|1nu1:J:1 6|1sqb:J:1 6|1sqp:J:1 6|1sqq:J:1 6|1sqv:J:1 6|1sqx:J:1 6|2fyu:J:2 6|5klv:J:2 
+  31 . A  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:J:1 5|1bcc:J:1 5|5okd:J:1 5|2bcc:J:1 6|1l0l:J:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:V:1 6|1ntk:J:1 6|1ntm:J:1 6|1ntz:J:1 6|1nu1:J:1 6|1sqb:J:1 6|1sqp:J:1 6|1sqq:J:1 6|1sqv:J:1 6|1sqx:J:1 6|2fyu:J:2 6|5klv:J:2 
+  32 . R  2 5|1pp9:G:1 5|1pp9:T:1 5|1ppj:G:1 5|1ppj:T:1 5|2a06:G:1 5|2a06:T:1 5|3bcc:G:1 5|3bcc:D:1 5|1bcc:G:1 5|5okd:G:1 5|2bcc:G:1 5|2bcc:D:1 6|1l0l:G:1 6|1l0n:G:1 6|1be3:G:1 6|1be3:A:1 6|1bgy:G:1 6|1bgy:S:1 6|1ntk:G:1 6|1ntm:G:1 6|1ntz:G:1 6|1nu1:G:1 6|1sqb:G:1 6|1sqp:G:1 6|1sqq:G:1 6|1sqv:G:1 6|1sqx:G:1 6|2fyu:G:2 6|5klv:G:2 
+  33 . K  2 5|1pp9:G:1 5|1pp9:J:1 5|1pp9:A:1 5|1pp9:T:1 5|1pp9:W:1 5|1pp9:N:1 5|1ppj:A:1 5|1ppj:G:1 5|1ppj:W:1 5|1ppj:N:1 5|2a06:G:1 5|2a06:A:1 5|2a06:W:1 5|2a06:N:1 5|3bcc:G:1 5|3bcc:J:1 5|3bcc:A:1 5|1bcc:J:1 5|1bcc:A:1 5|5okd:G:1 5|5okd:J:1 5|5okd:A:1 5|2bcc:J:1 5|2bcc:G:1 5|2bcc:A:1 6|1l0l:G:1 6|1l0l:J:1 6|1l0l:A:1 6|1l0n:G:1 6|1l0n:J:1 6|1l0n:A:1 6|1be3:G:1 6|1be3:J:1 6|1be3:A:1 6|1bgy:G:1 6|1bgy:J:1 6|1bgy:A:1 6|1bgy:S:1 6|1bgy:V:1 6|1bgy:M:1 6|1ntk:G:1 6|1ntk:J:1 6|1ntk:A:1 6|1ntm:G:1 6|1ntm:J:1 6|1ntm:A:1 6|1ntz:G:1 6|1ntz:J:1 6|1ntz:A:1 6|1nu1:G:1 6|1nu1:J:1 6|1nu1:A:1 6|1sqb:G:1 6|1sqb:A:1 6|1sqb:J:1 6|1sqp:G:1 6|1sqp:A:1 6|1sqp:J:1 6|1sqq:G:1 6|1sqq:J:1 6|1sqq:A:1 6|1sqv:G:1 6|1sqv:J:1 6|1sqv:A:1 6|1sqx:G:1 6|1sqx:A:1 6|2fyu:G:2 6|2fyu:J:2 6|2fyu:A:2 6|5klv:G:2 6|5klv:J:2 6|5klv:A:2 
+  34 . G  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:J:1 5|1bcc:J:1 5|5okd:J:1 5|2bcc:J:1 6|1l0l:J:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:V:1 6|1ntk:J:1 6|1ntm:J:1 6|1ntz:J:1 6|1nu1:J:1 6|1sqb:J:1 6|1sqp:J:1 6|1sqq:J:1 6|1sqv:J:1 6|1sqx:J:1 6|2fyu:J:2 6|5klv:J:2 
+  35 . F  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:D:1 5|1bcc:D:1 5|5okd:J:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:V:1 6|1ntm:J:1 6|1sqb:J:1 6|1sqq:J:1 6|1sqx:J:1 
+  36 . S  2 5|1pp9:D:1 5|1pp9:G:1 5|1pp9:T:1 5|1pp9:Q:1 5|1ppj:G:1 5|1ppj:D:1 5|1ppj:T:1 5|1ppj:Q:1 5|2a06:G:1 5|2a06:D:1 5|2a06:T:1 5|2a06:Q:1 5|3bcc:D:1 5|3bcc:G:1 5|1bcc:D:1 5|1bcc:G:1 5|5okd:D:1 5|2bcc:D:1 5|2bcc:G:1 6|1l0l:G:1 6|1l0l:D:1 6|1l0n:G:1 6|1l0n:D:1 6|1be3:D:1 6|1be3:G:1 6|1bgy:G:1 6|1bgy:D:1 6|1bgy:S:1 6|1bgy:P:1 6|1ntk:D:1 6|1ntm:D:1 6|1ntz:G:1 6|1ntz:D:1 6|1nu1:D:1 6|1sqb:D:1 6|1sqb:G:1 6|1sqp:D:1 6|1sqq:D:1 6|1sqv:D:1 6|1sqx:G:1 6|1sqx:D:1 6|2fyu:D:2 6|2fyu:G:2 6|5klv:G:2 6|5klv:D:2 
+  37 . Y  2 5|1pp9:J:1 5|1pp9:A:1 5|1pp9:G:1 5|1pp9:W:1 5|1pp9:N:1 5|1pp9:T:1 5|1ppj:W:1 5|1ppj:N:1 5|1ppj:T:1 5|2a06:W:1 5|2a06:N:1 5|2a06:T:1 5|3bcc:J:1 5|3bcc:G:1 5|3bcc:A:1 5|1bcc:J:1 5|1bcc:G:1 5|1bcc:A:1 5|5okd:J:1 5|5okd:A:1 5|5okd:G:1 5|2bcc:J:1 5|2bcc:G:1 5|2bcc:A:1 6|1l0l:J:1 6|1l0l:G:1 6|1l0l:A:1 6|1l0n:J:1 6|1l0n:G:1 6|1l0n:A:1 6|1be3:J:1 6|1be3:G:1 6|1be3:A:1 6|1bgy:J:1 6|1bgy:G:1 6|1bgy:A:1 6|1bgy:V:1 6|1bgy:S:1 6|1bgy:M:1 6|1ntk:J:1 6|1ntk:G:1 6|1ntk:A:1 6|1ntm:J:1 6|1ntm:G:1 6|1ntm:A:1 6|1ntz:J:1 6|1ntz:G:1 6|1ntz:A:1 6|1nu1:J:1 6|1nu1:G:1 6|1nu1:A:1 6|1sqb:J:1 6|1sqb:G:1 6|1sqb:A:1 6|1sqp:J:1 6|1sqp:G:1 6|1sqp:A:1 6|1sqq:J:1 6|1sqq:A:1 6|1sqq:G:1 6|1sqv:J:1 6|1sqv:A:1 6|1sqv:G:1 6|1sqx:J:1 6|1sqx:G:1 6|1sqx:A:1 6|2fyu:J:2 6|2fyu:G:2 6|2fyu:A:2 6|5klv:J:2 6|5klv:G:2 6|5klv:A:2 
+  38 . L  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:J:1 5|1bcc:J:1 5|5okd:J:1 5|2bcc:J:1 6|1l0l:J:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:V:1 6|1ntk:J:1 6|1ntm:J:1 6|1nu1:J:1 6|1sqb:J:1 6|1sqp:J:1 6|1sqq:J:1 6|1sqv:J:1 6|1sqx:J:1 6|2fyu:J:2 
+  39 . V  2 5|1pp9:D:1 5|1pp9:Q:1 5|1ppj:D:1 5|2a06:D:1 5|2a06:Q:1 5|3bcc:D:1 5|1bcc:D:1 5|5okd:D:1 5|2bcc:D:1 6|1l0l:D:1 6|1l0n:D:1 6|1bgy:D:1 6|1ntk:D:1 6|1ntm:D:1 6|1ntz:D:1 6|1nu1:D:1 6|1sqb:D:1 6|1sqp:D:1 6|1sqq:D:1 6|1sqv:D:1 6|1sqx:D:1 6|2fyu:D:2 6|5klv:D:2 
+  40 . T  2 5|1ppj:W:1 5|2a06:W:1 5|3bcc:D:1 5|1bcc:D:1 5|5okd:D:1 5|2bcc:D:1 5|2bcc:J:1 6|1l0l:D:1 6|1l0l:J:1 6|1l0n:D:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:D:1 6|1bgy:J:1 6|1bgy:P:1 6|1bgy:V:1 6|1ntk:D:1 6|1ntk:J:1 6|1ntm:J:1 6|1ntm:D:1 6|1ntz:J:1 6|1ntz:D:1 6|1nu1:J:1 6|1nu1:D:1 6|1sqb:D:1 6|1sqb:J:1 6|1sqp:D:1 6|1sqp:J:1 6|1sqq:D:1 6|1sqq:J:1 6|1sqv:D:1 6|1sqv:J:1 6|1sqx:D:1 6|1sqx:J:1 6|2fyu:D:2 6|2fyu:J:2 6|5klv:D:2 
+  41 . A  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:J:1 5|1bcc:J:1 5|5okd:J:1 5|2bcc:J:1 6|1l0l:J:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:V:1 6|1ntk:J:1 6|1ntm:J:1 6|1ntz:J:1 6|1nu1:J:1 6|1sqb:J:1 6|1sqp:J:1 6|1sqq:J:1 6|1sqv:J:1 6|1sqx:J:1 6|2fyu:J:2 6|5klv:J:2 
+  42 . T  2 5|1pp9:D:1 5|1pp9:Q:1 5|1ppj:D:1 5|1ppj:Q:1 5|2a06:D:1 5|2a06:Q:1 5|3bcc:D:1 5|1bcc:D:1 5|5okd:D:1 5|2bcc:D:1 6|1l0l:D:1 6|1l0n:D:1 6|1be3:D:1 6|1bgy:D:1 6|1bgy:P:1 6|1ntk:D:1 6|1ntm:D:1 6|1ntz:D:1 6|1nu1:D:1 6|1sqb:D:1 6|1sqp:D:1 6|1sqq:D:1 6|1sqv:D:1 6|1sqx:D:1 6|2fyu:D:2 6|5klv:D:2 
+  43 . T  2 5|1pp9:D:1 5|1pp9:Q:1 5|1ppj:D:1 5|1ppj:Q:1 5|2a06:D:1 5|2a06:Q:1 5|3bcc:D:1 5|1bcc:D:1 5|5okd:D:1 5|2bcc:D:1 6|1l0l:D:1 6|1l0n:D:1 6|1be3:D:1 6|1bgy:D:1 6|1bgy:P:1 6|1ntk:D:1 6|1ntm:D:1 6|1ntz:D:1 6|1nu1:D:1 6|1sqb:D:1 6|1sqp:D:1 6|1sqq:D:1 6|1sqv:D:1 6|1sqx:D:1 6|2fyu:D:2 6|5klv:D:2 
+  44 . T  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:J:1 5|1bcc:J:1 5|5okd:J:1 5|2bcc:J:1 6|1l0l:J:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:V:1 6|1ntk:J:1 6|1ntm:J:1 6|1ntz:J:1 6|1nu1:J:1 6|1sqb:J:1 6|1sqq:J:1 6|1sqv:J:1 6|1sqx:J:1 6|2fyu:J:2 6|5klv:J:2 
+  45 . V  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:J:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:J:1 5|1bcc:J:1 5|5okd:J:1 5|2bcc:J:1 6|1l0l:J:1 6|1l0n:J:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:V:1 6|1ntk:J:1 6|1ntm:J:1 6|1ntz:J:1 6|1nu1:J:1 6|1sqb:J:1 6|1sqp:J:1 6|1sqq:J:1 6|1sqv:J:1 6|1sqx:J:1 6|2fyu:J:2 6|5klv:J:2 
+  46 . G  2 5|1pp9:D:1 5|1pp9:Q:1 5|1ppj:D:1 5|1ppj:Q:1 5|2a06:D:1 5|2a06:Q:1 5|3bcc:D:1 5|1bcc:D:1 5|2bcc:D:1 6|1l0l:D:1 6|1l0n:D:1 6|1bgy:P:1 6|1ntm:D:1 6|1ntz:D:1 6|1nu1:D:1 6|1sqb:D:1 6|1sqp:D:1 6|1sqv:D:1 6|1sqx:D:1 6|2fyu:D:2 6|5klv:D:2 
+  47 . V  2 5|3bcc:D:1 5|1bcc:D:1 5|2bcc:D:1 6|1l0l:D:1 6|1l0n:D:1 6|1be3:D:1 6|1bgy:D:1 6|1bgy:P:1 6|1ntm:D:1 6|1sqb:D:1 6|1sqx:D:1 6|2fyu:D:2 
+  48 . A  1 6|1be3:J:1 6|1bgy:V:1 6|1ntk:K:1 6|1ntz:K:1 6|1nu1:K:1 6|1nu1:J:1 6|1sqb:K:1 6|1sqp:K:1 6|1sqq:K:1 6|1sqv:K:1 6|1sqx:K:1 6|2fyu:K:2 6|5klv:K:2 6|5klv:J:2 
+  49 . Y  2 5|1pp9:J:1 5|1pp9:D:1 5|1pp9:W:1 5|1pp9:Q:1 5|1ppj:J:1 5|1ppj:D:1 5|1ppj:W:1 5|1ppj:Q:1 5|2a06:J:1 5|2a06:D:1 5|2a06:W:1 5|2a06:Q:1 5|3bcc:J:1 5|3bcc:D:1 5|1bcc:J:1 5|1bcc:D:1 5|5okd:J:1 5|5okd:D:1 5|2bcc:J:1 5|2bcc:D:1 6|1l0l:D:1 6|1l0l:J:1 6|1l0n:D:1 6|1l0n:J:1 6|1be3:J:1 6|1be3:D:1 6|1bgy:D:1 6|1bgy:J:1 6|1bgy:V:1 6|1bgy:P:1 6|1ntk:D:1 6|1ntk:J:1 6|1ntm:D:1 6|1ntm:J:1 6|1ntz:D:1 6|1ntz:J:1 6|1nu1:D:1 6|1nu1:J:1 6|1sqb:D:1 6|1sqb:J:1 6|1sqp:D:1 6|1sqp:J:1 6|1sqq:D:1 6|1sqq:J:1 6|1sqv:D:1 6|1sqv:J:1 6|1sqx:J:1 6|1sqx:D:1 6|2fyu:J:2 6|2fyu:D:2 6|5klv:J:2 6|5klv:D:2 
+  50 . A  0 
+  51 . A  0 
+  52 . K  2 5|1pp9:J:1 5|1pp9:W:1 5|1ppj:J:1 5|1ppj:W:1 5|2a06:W:1 5|3bcc:J:1 5|1bcc:J:1 5|5okd:J:1 5|2bcc:J:1 6|1l0l:K:1 6|1l0l:J:1 6|1l0n:K:1 6|1be3:K:1 6|1be3:J:1 6|1bgy:J:1 6|1bgy:K:1 6|1bgy:V:1 6|1bgy:W:1 6|1ntk:K:1 6|1ntk:J:1 6|1ntm:K:1 6|1ntm:J:1 6|1ntz:K:1 6|1ntz:J:1 6|1nu1:K:1 6|1nu1:J:1 6|1sqb:K:1 6|1sqb:J:1 6|1sqp:J:1 6|1sqp:K:1 6|1sqq:K:1 6|1sqq:J:1 6|1sqv:K:1 6|1sqv:J:1 6|1sqx:K:1 6|1sqx:J:1 6|2fyu:K:2 6|2fyu:J:2 6|5klv:K:2 6|5klv:J:2 
+  53 . N  0 
+  54 . V  1 6|1sqb:C:1 
+  55 . V  0 
+  56 . S  0 
+  57 . Q  2 5|1pp9:C:1 5|1pp9:P:1 5|1ppj:C:1 5|1ppj:D:1 5|1ppj:P:1 5|1ppj:Q:1 5|2a06:C:1 5|2a06:D:1 5|2a06:P:1 5|2a06:Q:1 5|3bcc:C:1 5|1bcc:C:1 5|1bcc:D:1 5|5okd:C:1 5|5okd:D:1 5|2bcc:C:1 6|1l0l:C:1 6|1l0l:D:1 6|1l0n:C:1 6|1l0n:D:1 6|1be3:C:1 6|1be3:D:1 6|1bgy:C:1 6|1bgy:D:1 6|1bgy:O:1 6|1bgy:P:1 6|1ntk:C:1 6|1ntk:D:1 6|1ntm:C:1 6|1ntz:C:1 6|1ntz:D:1 6|1nu1:C:1 6|1sqb:C:1 6|1sqp:C:1 6|1sqq:C:1 6|1sqv:C:1 6|1sqx:C:1 6|1sqx:D:1 6|2fyu:C:2 6|2fyu:D:2 6|5klv:C:2 6|5klv:D:2 
+  58 . F  2 5|1pp9:C:1 5|1pp9:P:1 5|1ppj:C:1 5|1ppj:P:1 5|2a06:C:1 5|2a06:P:1 5|3bcc:C:1 5|1bcc:C:1 5|5okd:C:1 5|2bcc:C:1 6|1l0l:C:1 6|1l0n:C:1 6|1be3:C:1 6|1bgy:C:1 6|1bgy:O:1 6|1ntk:C:1 6|1ntm:C:1 6|1ntz:C:1 6|1nu1:C:1 6|1sqb:C:1 6|1sqp:C:1 6|1sqq:C:1 6|1sqv:C:1 6|1sqx:C:1 6|2fyu:C:2 6|5klv:C:2 
+  59 . V  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 5|1bcc:C:2 6|1bgy:O:1 6|1bgy:C:1 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+  60 . S  2 5|1pp9:C:1 5|1pp9:P:1 5|1ppj:C:1 5|1ppj:P:1 5|2a06:C:1 5|2a06:P:1 5|3bcc:C:1 5|1bcc:C:1 5|5okd:C:1 5|2bcc:C:1 6|1l0l:C:1 6|1l0n:C:1 6|1be3:C:1 6|1bgy:C:1 6|1bgy:O:1 6|1ntk:C:1 6|1ntm:C:1 6|1ntz:C:1 6|1nu1:C:1 6|1sqb:C:1 6|1sqp:C:1 6|1sqq:C:1 6|1sqv:C:1 6|1sqx:C:1 6|2fyu:C:2 6|5klv:C:2 
+  61 . S  2 5|1pp9:C:1 5|1pp9:P:1 5|1ppj:C:1 5|1ppj:P:1 5|2a06:C:1 5|2a06:P:1 5|3bcc:C:1 5|1bcc:C:1 5|5okd:C:1 5|2bcc:C:1 6|1l0l:C:1 6|1l0n:C:1 6|1be3:C:1 6|1bgy:C:1 6|1bgy:O:1 6|1ntk:C:1 6|1ntm:C:1 6|1ntz:C:1 6|1nu1:C:1 6|1sqb:C:1 6|1sqp:C:1 6|1sqq:C:1 6|1sqv:C:1 6|1sqx:C:1 6|2fyu:C:2 6|5klv:C:2 
+  62 . M  2 5|1pp9:P:1 5|1pp9:C:1 5|1pp9:C:1 5|1pp9:P:1 5|1ppj:P:1 5|1ppj:C:1 5|1ppj:C:1 5|1ppj:P:1 5|2a06:P:1 5|2a06:C:1 5|2a06:C:1 5|2a06:P:1 5|3bcc:C:2 5|3bcc:C:1 5|1bcc:C:2 5|1bcc:C:1 5|5okd:C:1 5|2bcc:C:1 6|1l0l:C:1 6|1l0n:C:1 6|1be3:C:1 6|1bgy:O:1 6|1bgy:C:1 6|1bgy:C:1 6|1bgy:O:1 6|1ntk:C:2 6|1ntk:C:1 6|1ntm:C:2 6|1ntm:C:1 6|1ntz:C:2 6|1ntz:C:1 6|1nu1:C:2 6|1nu1:C:1 6|1sqb:C:2 6|1sqb:C:1 6|1sqp:C:2 6|1sqp:C:1 6|1sqq:C:2 6|1sqq:C:1 6|1sqv:C:2 6|1sqv:C:1 6|1sqx:C:2 6|1sqx:C:1 6|2fyu:C:1 6|2fyu:C:2 6|5klv:C:1 6|5klv:C:2 
+  63 . S  2 5|1pp9:C:1 5|1pp9:P:1 5|1pp9:C:1 5|1pp9:P:1 5|1ppj:C:1 5|1ppj:P:1 5|1ppj:C:1 5|1ppj:P:1 5|2a06:C:1 5|2a06:P:1 5|2a06:C:1 5|2a06:P:1 5|3bcc:C:1 5|3bcc:C:2 5|1bcc:C:2 5|5okd:C:1 5|2bcc:C:1 6|1bgy:O:1 6|1bgy:C:1 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|1sqx:C:1 6|2fyu:C:1 6|2fyu:C:2 6|5klv:C:2 6|5klv:C:1 
+  64 . A  2 5|1pp9:P:1 5|1pp9:C:1 5|1pp9:C:1 5|1pp9:P:1 5|1ppj:P:1 5|1ppj:C:1 5|1ppj:C:1 5|1ppj:P:1 5|2a06:P:1 5|2a06:C:1 5|2a06:C:1 5|2a06:P:1 5|3bcc:C:1 5|1bcc:C:2 5|1bcc:C:1 5|5okd:C:1 6|1l0n:C:1 6|1be3:C:1 6|1bgy:C:1 6|1bgy:O:1 6|1ntk:C:2 6|1ntk:C:1 6|1ntm:C:1 6|1ntz:C:1 6|1nu1:C:1 6|1sqb:C:2 6|1sqb:C:1 6|1sqp:C:2 6|1sqp:C:1 6|1sqq:C:1 6|1sqq:C:2 6|1sqv:C:1 6|1sqx:C:2 6|1sqx:C:1 6|2fyu:C:1 6|2fyu:C:2 6|5klv:C:1 6|5klv:C:2 
+  65 . S  2 5|1pp9:C:1 5|1pp9:P:1 5|1ppj:C:1 5|1ppj:P:1 5|2a06:C:1 5|2a06:P:1 5|3bcc:C:1 5|1bcc:C:1 5|5okd:C:1 5|2bcc:C:1 6|1l0l:C:1 6|1l0n:C:1 6|1be3:C:1 6|1bgy:C:1 6|1bgy:O:1 6|1ntk:C:2 6|1ntk:C:1 6|1ntm:C:1 6|1ntz:C:1 6|1nu1:C:1 6|1sqb:C:1 6|1sqp:C:1 6|1sqq:C:1 6|1sqv:C:1 6|1sqx:C:1 6|2fyu:C:2 6|5klv:C:2 
+  66 . A  2 5|1pp9:C:1 5|1pp9:D:1 5|1pp9:P:1 5|1pp9:Q:1 5|1ppj:C:1 5|1ppj:D:1 5|1ppj:P:1 5|1ppj:Q:1 5|2a06:C:1 5|2a06:D:1 5|2a06:P:1 5|2a06:Q:1 5|3bcc:C:1 5|3bcc:D:1 5|1bcc:C:1 5|1bcc:D:1 5|5okd:C:1 5|5okd:D:1 5|2bcc:C:1 6|1l0l:D:1 6|1l0l:C:1 6|1l0n:C:1 6|1l0n:D:1 6|1be3:C:1 6|1bgy:C:1 6|1bgy:O:1 6|1ntk:C:1 6|1ntm:C:1 6|1ntz:D:1 6|1ntz:C:1 6|1nu1:C:1 6|1sqb:C:1 6|1sqb:D:1 6|1sqp:C:1 6|1sqq:C:1 6|1sqq:D:1 6|1sqv:D:1 6|1sqx:C:1 6|1sqx:D:1 6|2fyu:C:2 6|2fyu:D:2 6|5klv:C:2 6|5klv:D:2 
+  67 . D  2 5|1pp9:D:1 5|1pp9:C:1 5|1pp9:Q:1 5|1pp9:P:1 5|1ppj:D:1 5|1ppj:C:1 5|1ppj:Q:1 5|1ppj:P:1 5|2a06:D:1 5|2a06:C:1 5|2a06:Q:1 5|2a06:P:1 5|3bcc:D:1 5|3bcc:C:1 5|1bcc:C:1 5|5okd:D:1 5|5okd:C:1 5|2bcc:C:1 5|2bcc:D:1 6|1be3:C:1 6|1bgy:C:1 6|1bgy:O:1 6|1ntk:D:1 6|1ntk:C:1 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:D:1 6|1sqb:C:1 6|1sqp:C:1 6|1sqp:D:1 6|1sqq:C:1 6|1sqv:C:2 6|1sqx:C:1 6|1sqx:D:1 6|2fyu:C:2 6|5klv:D:2 6|5klv:C:2 
+  68 . V  1 6|1bgy:C:1 6|1ntk:C:2 6|2fyu:C:1 6|5klv:C:1 
+  69 . L  2 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 6|1l0n:D:1 6|1ntm:D:1 6|1ntz:D:1 6|1sqb:C:2 6|1sqv:D:1 6|2fyu:C:1 
+  70 . A  2 5|1pp9:D:1 5|1pp9:Q:1 5|1ppj:D:1 5|1ppj:Q:1 5|2a06:D:1 5|1bcc:D:1 5|5okd:D:1 6|1bgy:P:1 6|1sqb:D:1 6|1sqp:D:1 6|5klv:D:2 
+  71 . M  2 5|1pp9:C:1 5|1ppj:C:1 5|2a06:P:1 5|3bcc:D:1 5|5okd:D:1 5|2bcc:D:1 6|1be3:D:1 6|1ntz:D:1 6|1nu1:D:1 6|1sqb:D:1 
+  72 . S  2 5|1pp9:D:1 5|1pp9:Q:1 5|1ppj:D:1 5|1ppj:Q:1 5|2a06:D:1 5|2a06:Q:1 5|1bcc:C:2 6|1bgy:O:1 6|1bgy:C:1 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:D:1 6|1sqx:D:1 6|2fyu:D:2 
+  73 . K  1 6|2fyu:D:2 
+  74 . I  0 
+  75 . E  2 5|5okd:D:1 6|1sqb:D:1 6|1sqp:D:1 
+  76 . I  0 
+  77 . K  0 
+  78 . L  0 
+  79 . S  0 
+  80 . D  1 5|1pp9:Q:1 5|1ppj:D:1 5|2a06:Q:1 
+  81 . I  0 
+  82 . P  0 
+  83 . E  0 
+  84 . G  0 
+  85 . K  0 
+  86 . N  0 
+  87 . M  1 6|1sqb:D:1 6|1sqp:D:1 
+  88 . A  1 5|2a06:P:1 
+  89 . F  2 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 6|1sqx:D:1 
+  90 . K  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1bgy:C:1 6|1ntm:C:2 6|1nu1:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+  91 . W  0 
+  92 . R  2 5|1ppj:P:1 5|2a06:P:1 5|1bcc:C:2 6|1bgy:C:1 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|5klv:C:1 
+  93 . G  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 6|1bgy:C:1 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|2fyu:C:1 6|5klv:C:1 
+  94 . K  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|1bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+  95 . P  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+  96 . L  0 
+  97 . F  0 
+  98 . V  0 
+  99 . R  0 
+ 100 . H  0 
+ 101 . R  0 
+ 102 . T  0 
+ 103 . K  0 
+ 104 . K  0 
+ 105 . E  0 
+ 106 . I  0 
+ 107 . D  0 
+ 108 . Q  0 
+ 109 . E  0 
+ 110 . A  0 
+ 111 . A  0 
+ 112 . V  0 
+ 113 . E  0 
+ 114 . V  0 
+ 115 . S  0 
+ 116 . Q  0 
+ 117 . L  0 
+ 118 . R  2 5|1ppj:C:1 5|2a06:C:1 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 
+ 119 . D  0 
+ 120 . P  0 
+ 121 . Q  0 
+ 122 . H  0 
+ 123 . D  0 
+ 124 . L  0 
+ 125 . E  0 
+ 126 . R  0 
+ 127 . V  0 
+ 128 . K  0 
+ 129 . K  0 
+ 130 . P  0 
+ 131 . E  0 
+ 132 . W  0 
+ 133 . V  0 
+ 134 . I  0 
+ 135 . L  0 
+ 136 . I  0 
+ 137 . G  0 
+ 138 . V  0 
+ 139 . C  0 
+ 140 . T  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 141 . H  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 142 . L  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 5|1bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 143 . G  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 5|1bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 144 . C  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1bgy:C:1 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 
+ 145 . V  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1bgy:C:1 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 146 . P  0 
+ 147 . I  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1ntk:C:2 6|1nu1:C:2 6|1sqv:C:2 
+ 148 . A  0 
+ 149 . N  0 
+ 150 . A  0 
+ 151 . G  0 
+ 152 . D  0 
+ 153 . F  0 
+ 154 . G  0 
+ 155 . G  0 
+ 156 . Y  0 
+ 157 . Y  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:C:1 5|3bcc:C:2 6|1ntm:C:2 6|1sqv:C:2 6|1sqx:C:2 
+ 158 . C  0 
+ 159 . P  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 160 . C  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1bgy:C:1 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 161 . H  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1bgy:C:1 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqb:C:2 6|1sqp:C:2 6|1sqq:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 162 . G  1 6|1sqx:C:2 
+ 163 . S  0 
+ 164 . H  0 
+ 165 . Y  0 
+ 166 . D  0 
+ 167 . A  0 
+ 168 . S  0 
+ 169 . G  0 
+ 170 . R  0 
+ 171 . I  0 
+ 172 . R  0 
+ 173 . K  0 
+ 174 . G  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 
+ 175 . P  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|2a06:C:1 5|3bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 176 . A  0 
+ 177 . P  2 5|1pp9:P:1 5|1pp9:C:1 5|1ppj:P:1 5|1ppj:C:1 5|2a06:P:1 5|3bcc:C:2 6|1ntk:C:2 6|1ntm:C:2 6|1ntz:C:2 6|1nu1:C:2 6|1sqv:C:2 6|1sqx:C:2 6|2fyu:C:1 6|5klv:C:1 
+ 178 . L  0 
+ 179 . N  0 
+ 180 . L  0 
+ 181 . E  0 
+ 182 . V  0 
+ 183 . P  0 
+ 184 . S  0 
+ 185 . Y  0 
+ 186 . E  0 
+ 187 . F  0 
+ 188 . T  0 
+ 189 . S  0 
+ 190 . D  0 
+ 191 . D  0 
+ 192 . M  0 
+ 193 . V  0 
+ 194 . I  0 
+ 195 . V  0 
+ 196 . G  0 
+
+

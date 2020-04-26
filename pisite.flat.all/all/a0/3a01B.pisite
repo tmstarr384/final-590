@@ -1,0 +1,80 @@
+#PiSITE data for 3a01B generated at 2019-03
+#PDBID: 3A01
+#CHAIN: B
+#----
+#Binding state and partners
+#pdbcode cluster_no seqid coverage binding_partners(partner_cluster_no:pdbcode)
+3a01:B  0 100.00 100.00 0:3a01:A:1 
+3lnq:A  1 100.00  86.57 
+3a02:A  1 100.00  83.58 
+#Interaction for each residue
+#residue_no insertion_code residue_type number_of_binding_partners binding_partners
+  80 . A  0 
+  81 . P  0 
+  82 . K  0 
+  83 . R  0 
+  84 . K  0 
+  85 . Q  0 
+  86 . R  0 
+  87 . R  0 
+  88 . Y  0 
+  89 . R  0 
+  90 . T  0 
+  91 . T  0 
+  92 . F  0 
+  93 . T  0 
+  94 . S  0 
+  95 . F  0 
+  96 . Q  0 
+  97 . L  0 
+  98 . E  0 
+  99 . E  0 
+ 100 . L  0 
+ 101 . E  0 
+ 102 . K  0 
+ 103 . A  0 
+ 104 . F  0 
+ 105 . S  0 
+ 106 . R  0 
+ 107 . T  0 
+ 108 . H  0 
+ 109 . Y  1 0|3a01:A:1 
+ 110 . P  0 
+ 111 . D  0 
+ 112 . V  1 0|3a01:A:1 
+ 113 . F  1 0|3a01:A:1 
+ 114 . T  0 
+ 115 . R  0 
+ 116 . E  1 0|3a01:A:1 
+ 117 . E  0 
+ 118 . L  0 
+ 119 . A  0 
+ 120 . M  0 
+ 121 . K  0 
+ 122 . I  0 
+ 123 . G  0 
+ 124 . L  0 
+ 125 . T  1 0|3a01:A:1 
+ 126 . E  0 
+ 127 . A  1 0|3a01:A:1 
+ 128 . R  1 0|3a01:A:1 
+ 129 . I  0 
+ 130 . Q  0 
+ 131 . V  0 
+ 132 . W  0 
+ 133 . F  0 
+ 134 . Q  0 
+ 135 . N  0 
+ 136 . R  0 
+ 137 . R  0 
+ 138 . A  0 
+ 139 . K  0 
+ 140 . W  0 
+ 141 . R  0 
+ 142 . K  0 
+ 143 . Q  0 
+ 144 . E  0 
+ 145 . K  0 
+ 146 . V  0 
+
+

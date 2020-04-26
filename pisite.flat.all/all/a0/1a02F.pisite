@@ -1,0 +1,70 @@
+#PiSITE data for 1a02F generated at 2019-03
+#PDBID: 1A02
+#CHAIN: F
+#----
+#Binding state and partners
+#pdbcode cluster_no seqid coverage binding_partners(partner_cluster_no:pdbcode)
+1a02:F  0 100.00 100.00 1:1a02:J:1 2:1a02:N:1 
+1s9k:D  0  98.11  94.64 1:1s9k:E:1 2:1s9k:C:1 
+1fos:E  1 100.00  98.21 1:1fos:F:1 
+2wt7:A  2  98.18  98.21 3:2wt7:B:1 
+#Interaction for each residue
+#residue_no insertion_code residue_type number_of_binding_partners binding_partners
+ 138 . M  0 
+ 139 . K  0 
+ 140 . R  0 
+ 141 . R  0 
+ 142 . I  0 
+ 143 . R  0 
+ 144 . R  0 
+ 145 . E  0 
+ 146 . R  0 
+ 147 . N  0 
+ 148 . K  0 
+ 149 . M  0 
+ 150 . A  0 
+ 151 . A  0 
+ 152 . A  0 
+ 153 . K  0 
+ 154 . S  0 
+ 155 . R  0 
+ 156 . N  0 
+ 157 . R  0 
+ 158 . R  2 1|1fos:F:1 3|2wt7:B:1 
+ 159 . R  0 
+ 160 . E  0 
+ 161 . L  2 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 
+ 162 . T  2 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 
+ 163 . D  0 
+ 164 . T  0 
+ 165 . L  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 166 . Q  3 2|1a02:J:1 2|1s9k:E:1 2|1s9k:C:1 1|1fos:F:1 3|2wt7:B:1 
+ 167 . A  0 
+ 168 . E  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 169 . T  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 170 . D  1 2|1a02:N:1 2|1s9k:C:1 
+ 171 . Q  1 2|1a02:N:1 2|1s9k:C:1 
+ 172 . L  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 173 . E  3 2|1a02:N:1 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 174 . D  1 2|1a02:N:1 2|1s9k:C:1 
+ 175 . E  2 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 
+ 176 . K  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 177 . S  1 2|1a02:N:1 2|1s9k:C:1 
+ 178 . A  0 
+ 179 . L  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 180 . Q  3 2|1a02:N:1 2|1s9k:C:1 1|1fos:F:1 3|2wt7:B:1 
+ 181 . T  1 2|1a02:N:1 2|1s9k:C:1 
+ 182 . E  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 183 . I  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 184 . A  0 
+ 185 . N  0 
+ 186 . L  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 187 . L  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 188 . K  0 
+ 189 . E  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 190 . K  3 2|1a02:J:1 2|1s9k:E:1 1|1fos:F:1 3|2wt7:B:1 
+ 191 . E  1 2|1a02:N:1 2|1s9k:C:1 
+ 192 . K  1 2|1a02:J:1 2|1s9k:E:1 
+ 193 . L  2 1|1fos:F:1 3|2wt7:B:1 
+
+

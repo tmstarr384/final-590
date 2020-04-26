@@ -1,0 +1,134 @@
+#PiSITE data for 3a0bZ generated at 2019-03
+#PDBID: 3A0B
+#CHAIN: Z
+#----
+#Binding state and partners
+#pdbcode cluster_no seqid coverage binding_partners(partner_cluster_no:pdbcode)
+2axt:Z  0 100.00 100.00 1:2axt:K:1 2:2axt:C:1 
+2axt:z  0 100.00 100.00 1:2axt:k:1 2:2axt:c:1 
+3a0b:Z  0 100.00 100.00 1:3a0b:K:1 2:3a0b:C:1 
+3a0b:z  0 100.00 100.00 1:3a0b:k:1 2:3a0b:c:1 
+3a0h:Z  0 100.00 100.00 1:3a0h:K:1 2:3a0h:C:1 
+3a0h:z  0 100.00 100.00 1:3a0h:k:1 2:3a0h:c:1 
+4pbu:Z  0 100.00 100.00 1:4pbu:K:1 2:4pbu:C:1 
+4pbu:z  0 100.00 100.00 1:4pbu:k:1 2:4pbu:c:1 
+5e79:Z  0 100.00 100.00 1:5e79:K:1 2:5e79:C:1 
+5e79:z  0 100.00 100.00 1:5e79:k:1 2:5e79:c:1 
+5e7c:Z  0 100.00 100.00 1:5e7c:K:1 2:5e7c:C:1 
+5e7c:z  0 100.00 100.00 1:5e7c:k:1 2:5e7c:c:1 
+5h2f:Z  0 100.00 100.00 1:5h2f:K:1 2:5h2f:C:1 
+5zzn:Z  0 100.00 100.00 1:5zzn:K:1 2:5zzn:C:1 
+1s5l:Z  0 100.00 100.00 1:1s5l:K:1 2:1s5l:C:1 
+4v62:AZ  1 100.00 100.00 
+4v82:AZ  1 100.00 100.00 
+4v82:BZ  1 100.00 100.00 
+6dhe:Z  1 100.00 100.00 
+6dhe:z  1 100.00 100.00 
+6dhf:Z  1 100.00 100.00 
+6dhf:z  1 100.00 100.00 
+6dhg:Z  1 100.00 100.00 
+6dhg:z  1 100.00 100.00 
+6dhh:Z  1 100.00 100.00 
+6dhh:z  1 100.00 100.00 
+6dho:Z  1 100.00 100.00 
+6dho:z  1 100.00 100.00 
+6dhp:Z  1 100.00 100.00 
+6dhp:z  1 100.00 100.00 
+3kzi:Z  2 100.00 100.00 1:3kzi:K:1 2:3kzi:C:1 3:3kzi:y:1 
+3wu2:Z  2 100.00 100.00 1:3wu2:K:1 2:3wu2:C:1 3:3wu2:Y:1 
+3wu2:z  2 100.00 100.00 1:3wu2:k:1 2:3wu2:c:1 3:3wu2:y:1 
+4pj0:Z  2 100.00 100.00 1:4pj0:K:1 2:4pj0:C:1 3:4pj0:Y:1 
+4pj0:z  2 100.00 100.00 1:4pj0:k:1 2:4pj0:c:1 3:4pj0:y:1 
+4tnh:Z  2 100.00 100.00 1:4tnh:K:1 2:4tnh:C:1 3:4tnh:y:1 
+4tnh:z  2 100.00 100.00 1:4tnh:k:1 2:4tnh:c:1 3:4tnh:g:1 
+4tni:Z  2 100.00 100.00 1:4tni:K:1 2:4tni:C:1 3:4tni:y:1 
+4tni:z  2 100.00 100.00 1:4tni:k:1 2:4tni:c:1 3:4tni:g:1 
+4tnj:Z  2 100.00 100.00 1:4tnj:K:1 2:4tnj:C:1 3:4tnj:y:1 
+4tnj:z  2 100.00 100.00 1:4tnj:k:1 2:4tnj:c:1 3:4tnj:g:1 
+4ub6:Z  2 100.00 100.00 1:4ub6:K:1 2:4ub6:C:1 3:4ub6:Y:1 
+4ub8:Z  2 100.00 100.00 1:4ub8:K:1 2:4ub8:C:1 3:4ub8:Y:1 
+5b5e:Z  2 100.00 100.00 1:5b5e:K:1 2:5b5e:C:1 3:5b5e:Y:1 
+5b5e:z  2 100.00 100.00 1:5b5e:k:1 2:5b5e:c:1 3:5b5e:y:1 
+5b66:Z  2 100.00 100.00 1:5b66:K:1 2:5b66:C:1 3:5b66:Y:1 
+5b66:z  2 100.00 100.00 1:5b66:k:1 2:5b66:c:1 3:5b66:y:1 
+5gth:Z  2 100.00 100.00 1:5gth:K:1 2:5gth:C:1 3:5gth:Y:1 
+5gti:Z  2 100.00 100.00 1:5gti:K:1 2:5gti:C:1 3:5gti:Y:1 
+5kaf:Z  2 100.00 100.00 1:5kaf:K:1 2:5kaf:C:1 3:5kaf:Y:1 
+5kaf:z  2 100.00 100.00 1:5kaf:k:1 2:5kaf:c:1 3:5kaf:y:1 
+5kai:Z  2 100.00 100.00 1:5kai:K:1 2:5kai:C:1 3:5kai:Y:1 
+5kai:z  2 100.00 100.00 1:5kai:k:1 2:5kai:c:1 3:5kai:y:1 
+5mx2:Z  2 100.00 100.00 1:5mx2:K:1 2:5mx2:C:1 3:5mx2:Y:1 
+5tis:Z  2 100.00 100.00 1:5tis:K:1 2:5tis:C:1 3:5tis:Y:1 
+5tis:z  2 100.00 100.00 1:5tis:k:1 2:5tis:c:1 3:5tis:y:1 
+5v2c:Z  2 100.00 100.00 1:5v2c:K:1 2:5v2c:C:1 3:5v2c:Y:1 
+5v2c:z  2 100.00 100.00 1:5v2c:k:1 2:5v2c:c:1 3:5v2c:y:1 
+5ws5:Z  2 100.00 100.00 1:5ws5:K:1 2:5ws5:C:1 3:5ws5:Y:1 
+5ws6:Z  2 100.00 100.00 1:5ws6:K:1 2:5ws6:C:1 3:5ws6:Y:1 
+4il6:z  2 100.00  98.39 1:4il6:k:1 2:4il6:c:1 3:4il6:y:1 
+4il6:Z  2 100.00  98.39 1:4il6:K:1 2:4il6:C:1 3:4il6:Y:1 
+#Interaction for each residue
+#residue_no insertion_code residue_type number_of_binding_partners binding_partners
+   1 . M  0 
+   2 . T  0 
+   3 . I  0 
+   4 . L  0 
+   5 . F  2 2|2axt:K:1 2|2axt:k:1 2|3a0h:K:1 2|3a0h:k:1 2|4pbu:K:1 2|4pbu:k:1 2|5e79:K:1 2|5e79:k:1 2|5e7c:K:1 2|5e7c:k:1 2|5h2f:K:1 2|5zzn:K:1 2|1s5l:K:1 3|3kzi:K:1 3|3wu2:K:1 3|3wu2:k:1 3|4pj0:K:1 3|4pj0:k:1 3|4tnh:K:1 3|4tnh:k:1 3|4tni:K:1 3|4tni:k:1 3|4tnj:K:1 3|4tnj:k:1 3|4ub6:K:1 3|4ub8:K:1 3|5b5e:K:1 3|5b5e:k:1 3|5b66:K:1 3|5b66:k:1 3|5gth:K:1 3|5gti:K:1 3|5kaf:K:1 3|5kaf:k:1 3|5kai:K:1 3|5kai:k:1 3|5mx2:K:1 3|5tis:K:1 3|5tis:k:1 3|5v2c:K:1 3|5v2c:k:1 3|5ws5:K:1 3|5ws6:K:1 3|4il6:k:1 3|4il6:K:1 
+   6 . Q  2 2|2axt:K:1 2|2axt:k:1 2|3a0h:K:1 2|3a0h:k:1 2|4pbu:K:1 2|4pbu:k:1 2|5e79:K:1 2|5e79:k:1 2|5e7c:K:1 2|5e7c:k:1 2|5h2f:K:1 2|5zzn:K:1 2|1s5l:K:1 3|3wu2:K:1 3|4pj0:k:1 3|4ub6:K:1 3|4ub8:K:1 3|5b5e:K:1 3|5b5e:k:1 3|5b66:K:1 3|5b66:k:1 3|5gth:K:1 3|5gti:K:1 3|5kaf:K:1 3|5kaf:k:1 3|5kai:K:1 3|5kai:k:1 3|5tis:k:1 3|5v2c:K:1 3|5v2c:k:1 3|5ws5:K:1 3|5ws6:K:1 3|4il6:k:1 3|4il6:K:1 
+   7 . L  0 
+   8 . A  0 
+   9 . L  2 2|2axt:K:1 2|2axt:k:1 2|3a0b:K:1 2|3a0b:k:1 2|3a0h:K:1 2|3a0h:k:1 2|4pbu:K:1 2|4pbu:k:1 2|5e79:K:1 2|5e79:k:1 2|5e7c:K:1 2|5e7c:k:1 2|5h2f:K:1 2|5zzn:K:1 2|1s5l:K:1 3|3kzi:K:1 3|3wu2:K:1 3|3wu2:k:1 3|4pj0:K:1 3|4pj0:k:1 3|4tnh:K:1 3|4tnh:k:1 3|4tni:K:1 3|4tni:k:1 3|4tnj:K:1 3|4tnj:k:1 3|4ub6:K:1 3|4ub8:K:1 3|5b5e:K:1 3|5b5e:k:1 3|5b66:K:1 3|5b66:k:1 3|5gth:K:1 3|5gti:K:1 3|5kaf:K:1 3|5kaf:k:1 3|5kai:K:1 3|5kai:k:1 3|5mx2:K:1 3|5tis:K:1 3|5tis:k:1 3|5v2c:K:1 3|5v2c:k:1 3|5ws5:K:1 3|5ws6:K:1 3|4il6:k:1 3|4il6:K:1 
+  10 . A  2 2|5h2f:K:1 3|4tnh:K:1 3|4tni:K:1 3|4tnj:K:1 3|5gti:K:1 3|5ws5:K:1 3|5ws6:K:1 3|4il6:k:1 3|4il6:K:1 
+  11 . A  0 
+  12 . L  0 
+  13 . V  2 2|2axt:K:1 2|2axt:k:1 2|4pbu:K:1 2|5e79:k:1 2|5e7c:k:1 2|1s5l:K:1 3|3wu2:K:1 3|4pj0:k:1 3|4tnh:K:1 3|4tnh:k:1 3|4tni:K:1 3|4tni:k:1 3|4tnj:K:1 3|4tnj:k:1 3|4ub6:K:1 3|4ub8:K:1 3|5b5e:K:1 3|5b5e:k:1 3|5b66:K:1 3|5b66:k:1 3|5gth:K:1 3|5gti:K:1 3|5kaf:k:1 3|5kai:k:1 3|5tis:k:1 3|5v2c:K:1 3|5ws5:K:1 3|5ws6:K:1 3|4il6:k:1 3|4il6:K:1 
+  14 . I  0 
+  15 . L  0 
+  16 . S  0 
+  17 . F  2 2|2axt:X:1 2|2axt:x:1 2|3a0b:Y:1 2|3a0b:y:1 2|3a0h:Y:1 2|3a0h:y:1 2|4pbu:Y:1 2|4pbu:y:1 2|5e79:Y:1 2|5e79:y:1 2|5e7c:Y:1 2|5e7c:y:1 2|5h2f:Y:1 2|5zzn:Y:1 3|3kzi:y:1 3|3wu2:Y:1 3|3wu2:y:1 3|4pj0:Y:1 3|4pj0:y:1 3|4tnh:y:1 3|4tnh:g:1 3|4tni:y:1 3|4tni:g:1 3|4tnj:y:1 3|4tnj:g:1 3|4ub6:Y:1 3|4ub8:Y:1 3|5b5e:Y:1 3|5b5e:y:1 3|5b66:Y:1 3|5b66:y:1 3|5gth:Y:1 3|5gti:Y:1 3|5kaf:Y:1 3|5kaf:y:1 3|5kai:Y:1 3|5kai:y:1 3|5mx2:Y:1 3|5tis:Y:1 3|5tis:y:1 3|5v2c:Y:1 3|5v2c:y:1 3|5ws5:Y:1 3|5ws6:Y:1 3|4il6:y:1 3|4il6:Y:1 
+  18 . V  0 
+  19 . M  1 2|3a0h:C:1 2|3a0h:c:1 
+  20 . V  2 2|4pbu:Y:1 2|4pbu:y:1 2|5e79:Y:1 2|5e7c:Y:1 2|5e7c:y:1 2|5h2f:Y:1 2|5zzn:Y:1 3|3wu2:Y:1 3|3wu2:y:1 3|4pj0:Y:1 3|4pj0:y:1 3|4ub6:Y:1 3|4ub8:Y:1 3|5b5e:Y:1 3|5b5e:y:1 3|5b66:Y:1 3|5b66:y:1 3|5gth:Y:1 3|5gti:Y:1 3|5kaf:Y:1 3|5kaf:y:1 3|5kai:Y:1 3|5kai:y:1 3|5mx2:Y:1 3|5tis:Y:1 3|5tis:y:1 3|5v2c:Y:1 3|5v2c:y:1 3|5ws5:Y:1 3|5ws6:Y:1 3|4il6:y:1 3|4il6:Y:1 
+  21 . I  2 2|2axt:X:1 2|2axt:x:1 2|3a0b:y:1 2|4pbu:Y:1 2|4pbu:y:1 2|5e79:Y:1 2|5e7c:Y:1 2|5e7c:y:1 2|5h2f:Y:1 2|5zzn:Y:1 3|3kzi:y:1 3|3wu2:Y:1 3|3wu2:y:1 3|4pj0:Y:1 3|4pj0:y:1 3|4tnh:y:1 3|4tnh:g:1 3|4tni:y:1 3|4tni:g:1 3|4tnj:y:1 3|4tnj:g:1 3|4ub6:Y:1 3|4ub8:Y:1 3|5b5e:Y:1 3|5b5e:y:1 3|5b66:Y:1 3|5b66:y:1 3|5gth:Y:1 3|5kaf:Y:1 3|5kaf:y:1 3|5kai:Y:1 3|5kai:y:1 3|5tis:Y:1 3|5tis:y:1 3|5v2c:Y:1 3|5v2c:y:1 3|5ws5:Y:1 3|5ws6:Y:1 3|4il6:y:1 3|4il6:Y:1 
+  22 . G  0 
+  23 . V  2 2|2axt:C:1 2|2axt:c:1 2|3a0b:C:1 2|5h2f:C:1 3|3kzi:C:1 3|4tnh:C:1 3|4tnh:c:1 3|4tni:C:1 3|4tni:c:1 3|4tnj:C:1 3|4tnj:c:1 3|5mx2:C:1 
+  24 . P  2 2|3a0h:Y:1 2|3a0h:y:1 2|4pbu:C:1 2|4pbu:Y:1 2|4pbu:c:1 2|4pbu:y:1 2|5e79:C:1 2|5e79:Y:1 2|5e79:c:1 2|5e79:y:1 2|5e7c:C:1 2|5e7c:Y:1 2|5e7c:c:1 2|5e7c:y:1 2|5h2f:Y:1 2|5zzn:C:1 2|5zzn:Y:1 3|3kzi:C:1 3|3wu2:Y:1 3|3wu2:c:1 3|3wu2:y:1 3|4pj0:C:1 3|4pj0:Y:1 3|4pj0:y:1 3|4tnh:C:1 3|4tnh:c:1 3|4tni:C:1 3|4tni:c:1 3|4tnj:C:1 3|4tnj:c:1 3|4ub6:C:1 3|4ub6:Y:1 3|4ub8:C:1 3|4ub8:Y:1 3|5b5e:Y:1 3|5b5e:y:1 3|5b66:Y:1 3|5b66:c:1 3|5b66:y:1 3|5gth:Y:1 3|5gti:Y:1 3|5kaf:C:1 3|5kaf:Y:1 3|5kaf:y:1 3|5kai:Y:1 3|5kai:y:1 3|5mx2:Y:1 3|5tis:Y:1 3|5tis:y:1 3|5v2c:C:1 3|5v2c:Y:1 3|5v2c:c:1 3|5v2c:y:1 3|5ws5:Y:1 3|5ws6:Y:1 3|4il6:c:1 3|4il6:y:1 3|4il6:C:1 3|4il6:Y:1 
+  25 . V  2 2|2axt:X:1 2|2axt:x:1 2|3a0b:Y:1 2|3a0b:y:1 2|3a0h:Y:1 2|3a0h:y:1 2|4pbu:Y:1 2|4pbu:y:1 2|5e79:Y:1 2|5e79:y:1 2|5e7c:Y:1 2|5e7c:y:1 2|5h2f:Y:1 2|5zzn:Y:1 2|1s5l:N:1 3|3kzi:y:1 3|3wu2:Y:1 3|3wu2:y:1 3|4pj0:Y:1 3|4pj0:y:1 3|4tnh:y:1 3|4tnh:g:1 3|4tni:y:1 3|4tni:g:1 3|4tnj:y:1 3|4tnj:g:1 3|4ub6:Y:1 3|4ub8:Y:1 3|5b5e:Y:1 3|5b5e:y:1 3|5b66:Y:1 3|5b66:y:1 3|5gth:Y:1 3|5gti:Y:1 3|5kaf:Y:1 3|5kaf:y:1 3|5kai:Y:1 3|5kai:y:1 3|5mx2:Y:1 3|5tis:Y:1 3|5tis:y:1 3|5v2c:Y:1 3|5v2c:y:1 3|5ws5:Y:1 3|5ws6:Y:1 3|4il6:y:1 3|4il6:Y:1 
+  26 . A  2 2|3a0b:C:1 3|4pj0:c:1 
+  27 . Y  2 2|2axt:C:1 2|2axt:c:1 2|3a0b:C:1 2|3a0b:c:1 2|3a0h:C:1 2|3a0h:c:1 2|4pbu:C:1 2|4pbu:c:1 2|5e79:C:1 2|5e79:c:1 2|5e7c:C:1 2|5e7c:c:1 2|5h2f:C:1 2|5zzn:C:1 2|1s5l:C:1 3|3kzi:C:1 3|3kzi:y:1 3|3wu2:C:1 3|3wu2:c:1 3|4pj0:C:1 3|4pj0:c:1 3|4tnh:C:1 3|4tnh:y:1 3|4tnh:c:1 3|4tni:C:1 3|4tni:y:1 3|4tni:c:1 3|4tnj:C:1 3|4tnj:y:1 3|4tnj:c:1 3|4tnj:g:1 3|4ub6:C:1 3|4ub8:C:1 3|5b5e:C:1 3|5b5e:c:1 3|5b66:C:1 3|5b66:c:1 3|5gth:C:1 3|5gti:C:1 3|5kaf:C:1 3|5kaf:c:1 3|5kai:C:1 3|5kai:c:1 3|5mx2:C:1 3|5tis:C:1 3|5tis:c:1 3|5v2c:C:1 3|5v2c:c:1 3|5ws5:C:1 3|5ws6:C:1 3|4il6:c:1 3|4il6:C:1 
+  28 . A  2 2|2axt:X:1 2|2axt:x:1 2|3a0b:Y:1 2|3a0b:c:1 2|3a0b:y:1 2|3a0h:Y:1 2|3a0h:y:1 2|4pbu:Y:1 2|4pbu:y:1 2|5e79:Y:1 2|5e79:y:1 2|5e7c:Y:1 2|5e7c:y:1 2|5h2f:Y:1 2|5zzn:Y:1 3|3kzi:y:1 3|3wu2:Y:1 3|3wu2:y:1 3|4pj0:Y:1 3|4pj0:y:1 3|4tnh:y:1 3|4tnh:g:1 3|4tni:y:1 3|4tni:g:1 3|4tnj:y:1 3|4tnj:g:1 3|4ub6:Y:1 3|4ub8:Y:1 3|5b5e:Y:1 3|5b5e:y:1 3|5b5e:c:1 3|5b66:Y:1 3|5b66:y:1 3|5gth:Y:1 3|5gti:Y:1 3|5kaf:Y:1 3|5kaf:y:1 3|5kai:Y:1 3|5kai:y:1 3|5mx2:Y:1 3|5tis:Y:1 3|5tis:C:1 3|5tis:y:1 3|5v2c:Y:1 3|5v2c:y:1 3|5ws5:Y:1 3|5ws6:Y:1 3|4il6:y:1 3|4il6:Y:1 
+  29 . S  2 2|2axt:X:1 2|2axt:x:1 2|3a0b:Y:1 2|3a0b:y:1 2|3a0h:Y:1 2|3a0h:y:1 2|4pbu:Y:1 2|4pbu:y:1 2|5e79:C:1 2|5e79:Y:1 2|5e79:y:1 2|5e7c:Y:1 2|5e7c:y:1 2|5h2f:Y:1 2|5zzn:Y:1 3|3kzi:y:1 3|3wu2:Y:1 3|3wu2:y:1 3|4pj0:c:1 3|4pj0:y:1 3|4ub6:Y:1 3|4ub8:Y:1 3|5b5e:Y:1 3|5b5e:y:1 3|5b66:C:1 3|5b66:Y:1 3|5b66:y:1 3|5gth:C:1 3|5gth:Y:1 3|5gti:C:1 3|5gti:Y:1 3|5kaf:y:1 3|5kai:y:1 3|5mx2:Y:1 3|5tis:Y:1 3|5tis:y:1 3|5v2c:Y:1 3|5v2c:y:1 3|5ws5:C:1 3|5ws5:Y:1 3|5ws6:C:1 3|5ws6:Y:1 3|4il6:y:1 3|4il6:Y:1 
+  30 . P  2 2|2axt:X:1 2|2axt:x:1 2|3a0b:Y:1 2|3a0b:y:1 2|3a0h:C:1 2|3a0h:Y:1 2|3a0h:c:1 2|3a0h:y:1 2|4pbu:Y:1 2|4pbu:y:1 2|5e79:y:1 2|5e7c:y:1 2|5h2f:Y:1 2|1s5l:N:1 3|3wu2:Y:1 3|3wu2:y:1 3|4pj0:y:1 3|4ub6:Y:1 3|4ub8:Y:1 3|5b5e:Y:1 3|5b5e:y:1 3|5b66:Y:1 3|5b66:y:1 3|5kaf:y:1 3|5kai:Y:1 3|5tis:Y:1 3|5tis:c:1 3|5v2c:Y:1 3|5v2c:y:1 3|4il6:Y:1 
+  31 . Q  2 2|2axt:X:1 2|2axt:x:1 2|3a0b:Y:1 2|3a0b:y:1 2|3a0h:Y:1 2|3a0h:y:1 2|1s5l:N:1 3|3kzi:y:1 3|4tnh:y:1 3|4tnh:g:1 3|4tni:y:1 3|4tni:g:1 3|4tnj:y:1 3|4tnj:g:1 3|5kaf:Y:1 3|5kaf:y:1 3|5kai:y:1 3|5tis:Y:1 3|5tis:y:1 
+  32 . D  1 3|4pj0:y:1 3|5mx2:Y:1 
+  33 . W  2 2|3a0b:C:1 2|3a0b:c:1 2|3a0h:C:1 2|3a0h:c:1 2|4pbu:C:1 2|4pbu:c:1 2|5e79:C:1 2|5e79:c:1 2|5e7c:C:1 2|5e7c:c:1 2|5h2f:C:1 2|5zzn:C:1 3|3kzi:C:1 3|3wu2:C:1 3|3wu2:c:1 3|4pj0:c:1 3|4tnh:C:1 3|4tnh:c:1 3|4tni:C:1 3|4tni:c:1 3|4tnj:C:1 3|4tnj:c:1 3|4ub6:C:1 3|4ub8:C:1 3|5b5e:C:1 3|5b5e:c:1 3|5b66:C:1 3|5b66:c:1 3|5gth:C:1 3|5gti:C:1 3|5kaf:C:1 3|5kai:C:1 3|5kai:c:1 3|5mx2:C:1 3|5tis:C:1 3|5tis:c:1 3|5v2c:C:1 3|5v2c:c:1 3|5ws5:C:1 3|5ws6:C:1 3|4il6:c:1 3|4il6:C:1 
+  34 . D  0 
+  35 . R  1 3|4pj0:y:1 3|5tis:Y:1 
+  36 . S  0 
+  37 . K  1 3|3kzi:C:1 3|4pj0:C:1 3|4tnh:C:1 3|4tnh:c:1 3|4tni:C:1 3|4tni:c:1 3|4tnj:C:1 3|4tnj:c:1 
+  38 . Q  0 
+  39 . L  0 
+  40 . I  2 2|4pbu:C:1 2|4pbu:c:1 2|5e79:C:1 2|5e79:c:1 2|5e7c:C:1 2|5e7c:c:1 2|5h2f:C:1 2|5zzn:C:1 3|3kzi:C:1 3|3wu2:C:1 3|3wu2:c:1 3|4pj0:C:1 3|4pj0:c:1 3|4ub6:C:1 3|4ub8:C:1 3|5b5e:C:1 3|5b5e:c:1 3|5b66:C:1 3|5b66:c:1 3|5gth:C:1 3|5gti:C:1 3|5tis:C:1 3|5v2c:C:1 3|5v2c:c:1 3|5ws5:C:1 3|5ws6:C:1 3|4il6:c:1 3|4il6:C:1 
+  41 . F  0 
+  42 . L  0 
+  43 . G  0 
+  44 . S  2 2|3a0b:C:1 2|3a0b:c:1 2|3a0h:C:1 2|3a0h:c:1 2|4pbu:C:1 2|4pbu:c:1 2|5e79:C:1 2|5e79:c:1 2|5e7c:C:1 2|5e7c:c:1 2|5h2f:C:1 2|5zzn:C:1 2|1s5l:C:1 3|3kzi:C:1 3|3wu2:C:1 3|3wu2:c:1 3|4pj0:C:1 3|4pj0:c:1 3|4tnh:C:1 3|4tnh:c:1 3|4tni:C:1 3|4tni:c:1 3|4tnj:C:1 3|4tnj:c:1 3|4ub6:C:1 3|4ub8:C:1 3|5b5e:C:1 3|5b5e:c:1 3|5b66:C:1 3|5b66:c:1 3|5gth:C:1 3|5gti:C:1 3|5kai:C:1 3|5mx2:C:1 3|5v2c:C:1 3|5v2c:c:1 3|5ws5:C:1 3|5ws6:C:1 3|4il6:c:1 3|4il6:C:1 
+  45 . G  0 
+  46 . L  0 
+  47 . W  2 2|2axt:C:1 2|2axt:c:1 2|3a0b:C:1 2|3a0b:c:1 2|3a0h:C:1 2|3a0h:c:1 2|4pbu:C:1 2|4pbu:c:1 2|5e79:C:1 2|5e79:c:1 2|5e7c:C:1 2|5e7c:c:1 2|5h2f:C:1 2|5zzn:C:1 2|1s5l:C:1 3|3kzi:C:1 3|3wu2:C:1 3|3wu2:c:1 3|4pj0:C:1 3|4pj0:c:1 3|4tnh:C:1 3|4tnh:c:1 3|4tni:C:1 3|4tni:c:1 3|4tnj:C:1 3|4tnj:c:1 3|4ub6:C:1 3|4ub8:C:1 3|5b5e:C:1 3|5b5e:c:1 3|5b66:C:1 3|5b66:c:1 3|5gth:C:1 3|5gti:C:1 3|5kaf:C:1 3|5kaf:c:1 3|5kai:C:1 3|5kai:c:1 3|5mx2:C:1 3|5tis:C:1 3|5tis:c:1 3|5v2c:C:1 3|5v2c:c:1 3|5ws5:C:1 3|5ws6:C:1 3|4il6:c:1 3|4il6:C:1 
+  48 . I  0 
+  49 . A  0 
+  50 . L  0 
+  51 . V  2 2|2axt:c:1 2|3a0b:C:1 2|3a0b:c:1 2|4pbu:c:1 2|5e79:C:1 2|5e7c:c:1 3|4pj0:C:1 3|4ub6:C:1 3|5kaf:c:1 3|5mx2:C:1 3|5tis:C:1 3|5tis:c:1 
+  52 . L  0 
+  53 . V  0 
+  54 . V  0 
+  55 . G  0 
+  56 . V  0 
+  57 . L  0 
+  58 . N  2 2|2axt:K:1 2|2axt:C:1 2|2axt:k:1 2|2axt:c:1 2|3a0b:K:1 2|3a0b:k:1 2|3a0h:K:1 2|3a0h:k:1 2|4pbu:K:1 2|4pbu:C:1 2|4pbu:k:1 2|4pbu:c:1 2|5e79:K:1 2|5e79:C:1 2|5e79:k:1 2|5e79:c:1 2|5e7c:K:1 2|5e7c:C:1 2|5e7c:k:1 2|5e7c:c:1 2|5h2f:K:1 2|5h2f:C:1 2|5zzn:K:1 2|5zzn:C:1 3|3kzi:K:1 3|3wu2:K:1 3|3wu2:C:1 3|3wu2:k:1 3|3wu2:c:1 3|4pj0:K:1 3|4pj0:C:1 3|4pj0:k:1 3|4pj0:c:1 3|4tnh:K:1 3|4tnh:k:1 3|4tni:K:1 3|4tni:k:1 3|4tnj:K:1 3|4tnj:k:1 3|4ub6:K:1 3|4ub6:C:1 3|4ub8:K:1 3|4ub8:C:1 3|5b5e:K:1 3|5b5e:C:1 3|5b5e:k:1 3|5b5e:c:1 3|5b66:K:1 3|5b66:C:1 3|5b66:k:1 3|5b66:c:1 3|5gth:K:1 3|5gth:C:1 3|5gti:K:1 3|5gti:C:1 3|5kaf:K:1 3|5kaf:C:1 3|5kaf:k:1 3|5kaf:c:1 3|5kai:K:1 3|5kai:C:1 3|5kai:k:1 3|5mx2:K:1 3|5mx2:C:1 3|5tis:K:1 3|5tis:C:1 3|5tis:k:1 3|5tis:c:1 3|5v2c:K:1 3|5v2c:C:1 3|5v2c:k:1 3|5v2c:c:1 3|5ws5:K:1 3|5ws5:C:1 3|5ws6:K:1 3|5ws6:C:1 3|4il6:k:1 3|4il6:c:1 3|4il6:K:1 3|4il6:C:1 
+  59 . F  2 2|4pbu:C:1 3|3kzi:C:1 3|3wu2:C:1 3|4tnh:C:1 3|4tnh:c:1 3|4tni:C:1 3|4tni:c:1 3|4tnj:C:1 3|4tnj:c:1 3|4ub8:C:1 3|5b5e:C:1 3|5b5e:c:1 3|5b66:c:1 3|5kai:c:1 3|5mx2:C:1 3|5v2c:C:1 3|5ws5:C:1 3|4il6:C:1 
+  60 . F  0 
+  61 . V  2 2|2axt:K:1 2|2axt:k:1 2|3a0h:K:1 2|3a0h:k:1 2|4pbu:K:1 2|4pbu:k:1 2|5e79:K:1 2|5e79:k:1 2|5e7c:K:1 2|5e7c:k:1 2|5h2f:K:1 2|5zzn:K:1 3|3kzi:K:1 3|3wu2:K:1 3|3wu2:k:1 3|4tnh:K:1 3|4tnh:k:1 3|4tni:K:1 3|4tni:k:1 3|4tnj:K:1 3|4tnj:k:1 3|4ub6:K:1 3|4ub8:K:1 3|5b5e:K:1 3|5b66:K:1 3|5gth:K:1 3|5gti:K:1 3|5kaf:K:1 3|5kaf:k:1 3|5kai:k:1 3|5mx2:K:1 3|5tis:k:1 3|5v2c:K:1 3|5v2c:k:1 3|5ws5:K:1 3|5ws6:K:1 3|4il6:k:1 3|4il6:K:1 
+  62 . V  2 2|3a0h:C:1 2|3a0h:K:1 2|3a0h:c:1 2|3a0h:k:1 2|4pbu:K:1 2|4pbu:k:1 2|5e79:K:1 2|5e7c:K:1 2|5e7c:k:1 2|5h2f:K:1 2|5zzn:K:1 3|3kzi:K:1 3|3wu2:K:1 3|4pj0:k:1 3|4tnh:K:1 3|4tnh:k:1 3|4tni:K:1 3|4tni:k:1 3|4tnj:K:1 3|4tnj:k:1 3|4ub6:K:1 3|4ub8:K:1 3|5b66:K:1 3|5gth:K:1 3|5gti:K:1 3|5kaf:K:1 3|5kai:K:1 3|5tis:K:1 3|5tis:k:1 3|5v2c:K:1 3|5v2c:k:1 3|5ws5:K:1 3|5ws6:K:1 3|4il6:k:1 
+
+
